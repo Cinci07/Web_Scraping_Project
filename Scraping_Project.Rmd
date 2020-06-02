@@ -1,0 +1,149 @@
+---
+title: "Web_Scraping_Project"
+author: "Luca Cincera"
+date: "2 Juni 2020"
+output: html_document
+---
+
+# Import Packages
+
+```{r}
+library("knitr")
+
+library("rvest")
+
+library("stringr")
+library("dplyr")
+library("ggplot2")
+
+library("lubridate")
+```
+
+# Load Knite-Options
+
+```{r setup, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+opts_chunk$set(fig.align = "center")
+```
+
+# Web-Scraping Part
+
+Following two Web-Scrapers were created. The first Web-Scraper collects data on alarms from the Winterthur fire brigade and the second Web-Scraper collects certain weather data for the Winterthur region.
+
+## Fire Alarms Web-Scraper
+
+```{r, eval = FALSE}
+df_alarms <- data.frame(date = as.Date(character()), hour = integer(), duration = double(), alarm_type = character(), location = character(), firefighters = integer())
+
+for (j in 2019:2020){
+  
+  url <- paste("https://einsatzberichte-feuerwehr.winterthur.ch/mission-reports?page=0&year=", j , sep="")
+  webpage <- read_html(url)
+  anz <- webpage %>% html_nodes("b") %>% html_text() %>% as.integer()
+  anz <- as.integer(ceiling(anz/10)-1)
+  
+  for (i in 0:anz){
+  
+    url <- paste("https://einsatzberichte-feuerwehr.winterthur.ch/mission-reports?page=", i, "&year=", j , sep="")
+  
+    webpage <- read_html(url)
+    
+    yyy <- webpage %>% html_nodes("tr td") %>% html_text() %>% as.matrix()
+    
+    date <- yyy[seq(from = 1, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both")
+    time <- yyy[seq(from = 2, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both")
+    duration <- yyy[seq(from = 3, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_replace_all(pattern = "h", replacement = "") %>% str_trim("both")
+    alarm_type <- yyy[seq(from = 4, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both") %>% str_replace_all(pattern = ":.*", replacement = "")
+    location <- yyy[seq(from = 5, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both")
+    firefighters <- yyy[seq(from = 6, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both") %>% str_sub(start = 1, end = 1)
+    
+    df_t <- data.frame(date = as.Date(date,"%d.%m.%Y"), hour = as.integer(substr(time,1,2)), duration = as.double(duration), alarm_type, location, firefighters = as.integer(firefighters), stringsAsFactors = FALSE)
+    
+    df_alarms <- bind_rows(df_alarms, df_t)
+    
+    Sys.sleep(3)
+    print(paste("Is running j=", j ," and i=", i, sep = ""))
+  }
+}
+
+df_alarms <- df_alarms %>% filter(!is.na(date))
+df_alarms$alarm_type <- as.factor(df_alarms$alarm_type)
+df_alarms$location <- as.factor(df_alarms$location)
+```
+
+## Weather Web-Scraper
+
+```{r, eval = FALSE}
+df_weather <- data.frame(date = as.Date(character()), temp = double(), rain = double(), wind = double(), suntime = double(), storm = double())
+
+monate <- c("01","02","03","04","05","06","07","08","09","10","11","12")
+
+for (j in 2019:2020){
+  
+  for (i in 1:12){
+    
+    m <- monate[i]
+    
+    url <- paste("http://www.winti-wetter.ch/", j,"/m", j, m,".htm",sep="")
+  
+    webpage <- read_html(url)
+    
+    data <- webpage %>% html_nodes("tr td") %>% html_text() %>% as.matrix()
+    
+    date <- data[seq(from = 2, to = 23*31, by = 23)]
+    temp <- data[seq(from = 3, to = 23*31, by = 23)] %>% str_replace_all(pattern = "°C", replacement = "") %>% str_trim("both")
+    rain <- data[seq(from = 12, to = 23*31, by = 23)] %>% str_replace_all(pattern = "l/m²", replacement = "") %>% str_trim("both")
+    wind <- data[seq(from = 14, to = 23*31, by = 23)] %>% str_replace_all(pattern = "km/h", replacement = "") %>% str_trim("both")
+    suntime <- data[seq(from = 17, to = 23*31, by = 23)] %>% str_replace_all(pattern = "h", replacement = "") %>% str_trim("both")
+    storm <- data[seq(from = 23, to = 23*31, by = 23)] %>% str_replace_all(pattern = "km/h", replacement = "") %>% str_trim("both")
+    
+    df_t <- data.frame(date = as.Date(date,"%d.%m.%Y"), temp = as.double(temp), rain = as.double(rain), wind = as.double(wind), suntime = as.double(suntime), storm = as.double(storm))
+  
+    df_weather <- bind_rows(df_weather, df_t)
+    
+    Sys.sleep(3)
+    print(paste("Is running j=", j ," and i=", i, sep = ""))
+    
+    if (j == 2020 && i == 5){break} # break after Mai 2020
+  }
+}
+
+df_weather <- df_weather %>% filter(!is.na(date))
+```
+
+## Save the DataFrames
+
+After the Web-Scraping both DataFrames will be saved. The simple reason is that with this behaviour the data has to be scraped only once. 
+
+```{r, eval = FALSE}
+write.csv(df_alarms, file = "df_alarms.csv")
+write.csv(df_weather, file = "df_weather.csv")
+```
+
+# Analysis
+
+```{r}
+df_alarms <- read.csv(file = "df_alarms.csv", header = TRUE)
+df_weather <- read.csv(file = "df_weather.csv", header = TRUE)
+```
+
+## Data Exploration
+
+```{r}
+ggplot(df_alarms, aes(x=hour)) + geom_histogram()
+hist(df_alarms$hour, breaks = 24)
+
+
+xx <- df_alarms %>% group_by(alarm_type) %>% summarise(count = n())
+ggplot(data=xx, aes(x=alarm_type, y=count)) + geom_bar(stat="identity")
+
+
+yy <- df_alarms %>% group_by(location) %>% summarise(count = n())
+ggplot(data=yy, aes(x=location, y=count)) + geom_bar(stat="identity") + coord_flip()
+```
+
+
+
+
+
+
