@@ -1,0 +1,1086 @@
+"","X","date","hour","duration","alarm_type","location","firefighters"
+"1",1,"2019-12-31",23,1,"Personenrettung / Personenbergung","Oberwinterthur",4
+"2",2,"2019-12-30",21,1,"Tiereinsatz","Heiligberg",4
+"3",3,"2019-12-30",9,0.5,"Automatische Gefahrenmeldeanlage","Grüze",1
+"4",4,"2019-12-29",13,1.5,"Brand Mittel","Wülflingen",1
+"5",5,"2019-12-28",23,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"6",6,"2019-12-25",21,0.5,"Falschmeldung","Stadt",3
+"7",7,"2019-12-25",17,0.5,"Wasserwehr Klein","Stadt",3
+"8",8,"2019-12-24",23,1,"Personenrettung/Personenbergung","Wülflingen",4
+"9",9,"2019-12-24",16,1,"Personenrettung/Personenbergung","Dättnau",4
+"10",10,"2019-12-23",17,1,"ABC-Gas","Stadt",1
+"11",11,"2019-12-22",18,1,"Wasserwehr Klein","Seen",3
+"12",12,"2019-12-22",15,0.5,"Personenrettung","Veltheim",8
+"13",13,"2019-12-22",4,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",8
+"14",14,"2019-12-22",3,1,"Wasserwehr","Veltheim",3
+"15",15,"2019-12-21",2,1,"Automatische Gefahrenmeldeanlage","Stadt",9
+"16",16,"2019-12-20",9,1,"ABC-Stadt","Stadt",3
+"17",17,"2019-12-19",11,6.5,"ABC-Stadt","Stadt",2
+"18",18,"2019-12-17",17,0.5,"Personenrettung","Töss",4
+"19",19,"2019-12-17",16,1,"Automatische Gefahrenmeldeanlage","Wülflingen",9
+"20",20,"2019-12-17",9,1.5,"ABC-Stadt","Oberwinterthur",3
+"21",21,"2019-12-15",9,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"22",22,"2019-12-14",15,0.5,"ABC-Gas","Stadt",1
+"23",23,"2019-12-14",10,0.5,"Elementar Sturm","Oberwinterthur",4
+"24",24,"2019-12-14",0,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"25",25,"2019-12-13",22,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"26",26,"2019-12-13",21,1,"Wasserwehr Klein","Seen",1
+"27",27,"2019-12-13",15,0.5,"Lifteinsatz","Oberwinterthur",6
+"28",28,"2019-12-09",16,1,"Wasserwehr","Töss",2
+"29",29,"2019-12-08",12,0.5,"Personenrettung","Wülflingen",4
+"30",30,"2019-12-07",11,1.5,"ABC-Stadt","Seen",3
+"31",31,"2019-12-07",7,0.5,"Personenrettung","Oberwinterthur",4
+"32",32,"2019-12-07",0,1,"Lifteinsatz","Töss",6
+"33",33,"2019-12-06",14,2,"Wasserwehr Klein","Oberwinterthur",5
+"34",34,"2019-12-06",14,0.5,"Personenrettung","Stadt",4
+"35",35,"2019-12-06",13,0.5,"Wasserwehr","Stadt",2
+"36",36,"2019-12-05",15,3,"ABC-Messbus","Rüti ZH",4
+"37",37,"2019-12-05",11,2,"ABC-Messbus","Fehraltorf",4
+"38",38,"2019-12-05",10,14,"Automatische Gefahrenmeldeanlage","Oberwinterthur",5
+"39",39,"2019-12-05",8,1,"Automatische Gefahrenmeldeanlage","Töss",9
+"40",40,"2019-12-04",1,1.5,"Wasserwehr klein","Töss",3
+"41",41,"2019-12-02",17,0.5,"Falschmeldung","Oberwinterthur",6
+"42",42,"2019-12-02",9,1,"ABC-Stadt","Töss",3
+"43",43,"2019-11-30",16,0.5,"Wasserwehr","Veltheim",2
+"44",44,"2019-11-30",14,1.5,"Pioniereinsatz","Wülflingen",7
+"45",45,"2019-11-30",13,3.5,"Personenbergung","Wülflingen",1
+"46",46,"2019-11-30",12,2,"Raucherzeugung/Dampfaustritt","Oberwinterthur",1
+"47",47,"2019-11-29",14,3,"Hilfeleistung","Stadt",7
+"48",48,"2019-11-29",12,1,"ABC-Stadt","Stadt",3
+"49",49,"2019-11-29",7,2,"Wasserwehr mittel","Stadt",3
+"50",50,"2019-11-28",13,0.5,"ABC-Stadt","Oberwinterthur",3
+"51",51,"2019-11-27",19,3.5,"Stützpunkt Automobildrehleiter","Rickenbach",4
+"52",52,"2019-11-27",13,1,"Falschmeldung","Oberwinterthur",4
+"53",53,"2019-11-26",17,1,"ABC-Stadt","Töss",3
+"54",54,"2019-11-24",16,0.5,"Stützpunkt ADL","Pfungen",4
+"55",55,"2019-11-24",10,0.5,"Wasserwehr","Wülflingen",4
+"56",56,"2019-11-24",10,0.5,"Personenrettung","Stadt",4
+"57",57,"2019-11-23",16,2,"ABC-Stützpunkt","Embrach",1
+"58",58,"2019-11-23",10,1,"Personenbergung","Seen",3
+"59",59,"2019-11-23",9,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"60",60,"2019-11-22",23,1,"Personenrettung","Stadt",1
+"61",61,"2019-11-21",11,0.5,"Personenrettung","Stadt",4
+"62",62,"2019-11-20",21,0.25,"Personenrettung","Stadt",4
+"63",63,"2019-11-20",13,2,"Wasserwehr mittel","Mattenbach",3
+"64",64,"2019-11-19",15,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"65",65,"2019-11-19",12,1,"Pioniereinsatz","Töss",1
+"66",66,"2019-11-19",12,0.5,"Brand Klein","Stadt",4
+"67",67,"2019-11-19",8,1,"Personenrettung","Wülflingen",4
+"68",68,"2019-11-18",15,0.5,"Personenrettung","Oberwinterthur",4
+"69",69,"2019-11-17",10,0.5,"ABC-Stadt","Oberwinterthur",3
+"70",70,"2019-11-15",18,0.5,"Personenrettung","Oberwinterthur",4
+"71",71,"2019-11-15",9,0.5,"Personenrettung","Stadt",6
+"72",72,"2019-11-14",18,1,"Personenrettung","Wülflingen",6
+"73",73,"2019-11-14",13,1,"Brand Fahrzeug","Oberwinterthur",8
+"74",74,"2019-11-14",13,1,"Stützpunkt Strassenrettung","Elgg",7
+"75",75,"2019-11-12",14,0.5,"Personenrettung","Stadt",4
+"76",76,"2019-11-12",13,1,"Hilfeleistung","Stadt",3
+"77",77,"2019-11-12",7,0.5,"Stützpunkt Nationalstrasse","A1 Töss",6
+"78",78,"2019-11-10",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"79",79,"2019-11-10",14,1,"Personenrettung","Stadt",4
+"80",80,"2019-11-10",13,1,"Hilfeleistung","Stadt",3
+"81",81,"2019-11-09",15,0.5,"Personenrettung/Personenbergung","Töss",4
+"82",82,"2019-11-08",14,0.5,"Hilfeleistung","Töss",3
+"83",83,"2019-11-07",22,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"84",84,"2019-11-05",20,1.5,"Stützpunkt Automobildrehleiter","Neftenbach",4
+"85",85,"2019-11-05",13,1,"ABC-Stadt","Stadel",3
+"86",86,"2019-11-05",13,0.5,"Hilfeleistung","Stadt",3
+"87",87,"2019-11-05",9,2,"ABC-Stadt","Stadt",3
+"88",88,"2019-11-04",9,1,"Personenrettung","Veltheim",3
+"89",89,"2019-11-03",12,1,"Hilfeleistung","Sennhof",3
+"90",90,"2019-11-03",10,1.5,"Hilfeleistung","Töss",3
+"91",91,"2019-11-02",9,1,"Automatische Gefahrenmeldeanlage","Stadt",8
+"92",92,"2019-11-01",21,1,"Automatische Gefahrenmeldeanlage","Stadt",8
+"93",93,"2019-11-01",16,1,"Personenrettung","Oberwinterthur",5
+"94",94,"2019-11-01",11,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",8
+"95",95,"2019-10-31",11,0.5,"Tiereinsatz","Töss",3
+"96",96,"2019-10-30",0,1.5,"ABC-Stadt","Stadt",3
+"97",97,"2019-10-29",22,3,"Stützpunkt Automobildrehleiter","Rickenbach",4
+"98",98,"2019-10-28",18,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",8
+"99",99,"2019-10-28",8,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"100",100,"2019-10-28",5,1,"ABC-Gas","Töss",1
+"101",101,"2019-10-28",0,1,"Automatische Gefahrenmeldeanlage","Töss",9
+"102",102,"2019-10-27",22,0.5,"ABC-Stadt","Oberwinterthur",3
+"103",103,"2019-10-27",18,1,"ABC-Stadt","Oberwinterthur",3
+"104",104,"2019-10-27",14,0.5,"Personenrettung","Seen",4
+"105",105,"2019-10-25",20,0.5,"Raucherzeugung/Dampfaustritt","Töss",1
+"106",106,"2019-10-25",18,0.45,"Raucherzeugung/Dampfaustritt","Stadt",1
+"107",107,"2019-10-25",11,0.5,"Brand Fahrzeug","Wülflingen",1
+"108",108,"2019-10-24",17,1.5,"ABC-Stadt","Oberwinterthur",3
+"109",109,"2019-10-23",14,1,"Personenrettung","Töss",8
+"110",110,"2019-10-22",19,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"111",111,"2019-10-22",18,1,"Personenrettung","Stadt",4
+"112",112,"2019-10-21",21,1,"Personenbergung","Oberwinterthur",9
+"113",113,"2019-10-21",17,0.5,"Falschmeldung","Oberwinterthur",6
+"114",114,"2019-10-21",15,1,"Brand Fahrzeug","Töss",1
+"115",115,"2019-10-21",8,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",1
+"116",116,"2019-10-21",1,1.5,"ABC-Stadt","Stadt",3
+"117",117,"2019-10-20",20,1,"Personenrettung","Wülflingen",1
+"118",118,"2019-10-20",19,2,"Stützpunkt Gemeinde","Bubikon",1
+"119",119,"2019-10-20",13,0.5,"ABC-Gas","Mattenbach",1
+"120",120,"2019-10-20",12,0.5,"Personenbergung / Personenrettung","Mattenbach",4
+"121",121,"2019-10-20",7,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"122",122,"2019-10-20",1,1,"Automatische Gefahrenmeldeanlage","Töss",9
+"123",123,"2019-10-19",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"124",124,"2019-10-19",15,2,"Strassenrettung","Oberwinterthur",1
+"125",125,"2019-10-19",6,3,"Wasserwehr Klein","Oberwinterthur",3
+"126",126,"2019-10-19",0,1,"Wasserwehr Klein","Stadt",3
+"127",127,"2019-10-19",0,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"128",128,"2019-10-18",22,1,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"129",129,"2019-10-16",23,1,"Wasserwehr Klein","Stadt",3
+"130",130,"2019-10-16",21,2.5,"Automobildrehleiter-Stützpunkt","Niederneunforn",4
+"131",131,"2019-10-16",16,1.5,"Brand Klein","Stadt",9
+"132",132,"2019-10-16",6,0.5,"Stützpunkt Automobildrehleiter","Neftenbach",4
+"133",133,"2019-10-15",13,2,"Stützpunkt Automobildrehleiter","Hagenbuch",4
+"134",134,"2019-10-15",10,1,"Raucherzeugung","Wülflingen",1
+"135",135,"2019-10-14",18,0.5,"Automatische Gefahrenmeldeanlage","Wülflingen",8
+"136",136,"2019-10-14",12,0.5,"Personenrettung","Stadt",1
+"137",137,"2019-10-14",12,5,"Hilfeleistung","Seen",1
+"138",138,"2019-10-13",16,0.5,"Automatische Gefahrenmeldeanlage","Wülflingen",9
+"139",139,"2019-10-13",15,1,"Lifteinsatz","Neuhegi",6
+"140",140,"2019-10-13",10,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"141",141,"2019-10-10",17,1,"Wasserwehr","Stadt",3
+"142",142,"2019-10-09",21,0.5,"Brand klein","Wülflingen",1
+"143",143,"2019-10-09",17,0.5,"Elementar Wasser","Seen",3
+"144",144,"2019-10-09",15,1,"Elementar Wasser","Winterthur",3
+"145",145,"2019-10-09",12,1.5,"Elementar Wasser","Stadt",3
+"146",146,"2019-10-09",10,1,"Brand Fahrzeug","Veltheim",1
+"147",147,"2019-10-08",20,1,"Brand Klein","Töss",1
+"148",148,"2019-10-07",15,1.5,"Personenrettung/Personenbergung","Oberwinterthur",4
+"149",149,"2019-10-07",1,0.5,"Personenbergung","Wülflingen",4
+"150",150,"2019-10-06",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"151",151,"2019-10-06",13,0.5,"Wasserwehr Klein","Mattenbach",3
+"152",152,"2019-10-05",23,2,"Wasserwehr Klein","Mattenbach",5
+"153",153,"2019-10-05",22,2,"Hilfeleistung","Wülflingen",1
+"154",154,"2019-10-05",15,1,"Hilfeleistung","Wülflingen",3
+"155",155,"2019-10-05",14,1,"Automatische Gefahrenmeldeanlage","Hegi",9
+"156",156,"2019-10-04",23,1,"Hilfeleistung diverses","Stadt",3
+"157",157,"2019-10-04",3,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"158",158,"2019-10-03",21,1,"Verkehrsunfall","Stadt",1
+"159",159,"2019-10-03",13,0.5,"Personenbergung","Töss",5
+"160",160,"2019-09-30",6,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"161",161,"2019-09-29",3,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"162",162,"2019-09-28",16,0.5,"Wasserwehr Klein","Seen",3
+"163",163,"2019-09-28",8,0.5,"ABC-Messbus","Uster",4
+"164",164,"2019-09-27",22,1.5,"Brand Mittel","Mattenbach",1
+"165",165,"2019-09-27",20,1,"Brand Klein","Oberwinterthur",1
+"166",166,"2019-09-27",7,0.5,"Brand Fahrzeug","Stadt",1
+"167",167,"2019-09-27",2,1,"Automatische Gefahrenmeldeanlage","Oberwinterthur",8
+"168",168,"2019-09-26",21,2,"ABC-Stadt","Wülflingen",1
+"169",169,"2019-09-25",14,1,"Wasserwehr","Seen",3
+"170",170,"2019-09-25",8,0.5,"Brand Klein","Oberwinterthur",3
+"171",171,"2019-09-25",7,2,"ABC-Gas","Grüze",1
+"172",172,"2019-09-23",22,0.5,"Falschmeldung","Oberwinterthur",1
+"173",173,"2019-09-22",16,0.5,"Wasserwehr","Töss",3
+"174",174,"2019-09-22",16,3,"Brand Mittel","Wülflingen",2
+"175",175,"2019-09-22",14,1,"Brand Fahrzeug","Oberwinterthur",1
+"176",176,"2019-09-21",7,1,"Automatische Gefahrenmeldeanlage","Stadt",8
+"177",177,"2019-09-21",6,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"178",178,"2019-09-21",4,0.5,"Automatische Gefahrenmeldeanlage","Hegi",6
+"179",179,"2019-09-20",15,0.5,"Falschmeldung","Oberwinterthur",6
+"180",180,"2019-09-20",13,0.5,"Falschmeldung","Oberwinterthur",6
+"181",181,"2019-09-20",9,0.5,"Falschmeldung","Oberwinterthur",6
+"182",182,"2019-09-19",17,0.5,"Brand Klein","Stadt",3
+"183",183,"2019-09-19",9,0.45,"Wasserwehr","Wülflingen",3
+"184",184,"2019-09-19",8,0.5,"Falschmeldung","Oberwinterthur",1
+"185",185,"2019-09-19",4,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"186",186,"2019-09-19",3,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"187",187,"2019-09-18",22,1,"Hilfeleistung","Oberwinterthur",6
+"188",188,"2019-09-18",21,1,"Wasserwehr klein","Töss",3
+"189",189,"2019-09-18",14,1,"Tiereinsatz","Töss",3
+"190",190,"2019-09-17",21,0.5,"Personenbergung/Personenrettung","Stadt",6
+"191",191,"2019-09-17",4,1.5,"Personenbergung/Personenrettung","Stadt",4
+"192",192,"2019-09-16",14,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"193",193,"2019-09-16",9,1,"Stützpunkt Schiene","Sulz-Rickenbach",1
+"194",194,"2019-09-15",16,1,"Personenbergung/Personenrettung","Seen",5
+"195",195,"2019-09-15",16,2,"Brand Mittel","Oberwinterthur",1
+"196",196,"2019-09-15",15,0.5,"Tiereinsatz","Stadt",3
+"197",197,"2019-09-15",14,0.5,"Hilfeleistung","Wülflingen",3
+"198",198,"2019-09-14",15,0.5,"Hilfeleistung","Stadt",3
+"199",199,"2019-09-12",8,1,"Stützpunkt Nationalstrasse","A1",2
+"200",200,"2019-09-11",11,3.5,"ABC-Stützpunkt","Pfungen",2
+"201",201,"2019-09-09",21,0.5,"Wasserwehr Klein","Oberwinterthur",5
+"202",202,"2019-09-09",20,0.5,"Personenbergung/Personenrettung","Wülflingen",6
+"203",203,"2019-09-09",6,1,"ABC-Stadt","Oberwinterthur",1
+"204",204,"2019-09-08",16,1,"Raucherzeugung/Dampfaustritt","Stadel",6
+"205",205,"2019-09-08",10,1,"Wasserwehr Klein","Stadt",3
+"206",206,"2019-09-08",9,0.5,"Hilfeleistung","Wülflingen",3
+"207",207,"2019-09-08",8,0.5,"Brand Klein","Stadt",6
+"208",208,"2019-09-07",23,1,"Personenrettung/Personenbergung","Töss",6
+"209",209,"2019-09-07",18,0.5,"Lifteinsatz","Töss",6
+"210",210,"2019-09-06",14,0.5,"Pioniereinsatz","Töss",3
+"211",211,"2019-09-05",20,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"212",212,"2019-09-05",19,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"213",213,"2019-09-05",17,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"214",214,"2019-09-05",12,0.5,"Hilfeleistung","Winterthur",3
+"215",215,"2019-09-04",12,0.5,"Personenrettung/Personenbergung","Mattenbach",4
+"216",216,"2019-09-04",8,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"217",217,"2019-09-03",17,0.5,"Tiereinsatz","Oberwinterthur",3
+"218",218,"2019-09-03",13,0.5,"Stützpunkt Automobildrehleiter","Seuzach",4
+"219",219,"2019-09-03",3,0.5,"Automatische Gefahrenmeldeanlage","Töss",9
+"220",220,"2019-09-02",21,0.5,"Brand Klein","Wülflingen",1
+"221",221,"2019-09-02",15,0.5,"Hilfeleistung","Stadt",3
+"222",222,"2019-09-01",18,1,"Personenbergung/Personenrettung","Oberwinterthur",4
+"223",223,"2019-09-01",17,1,"Automatische Gefahrenmeldeanlage","Stadt",8
+"224",224,"2019-09-01",10,0.5,"Brand klein","Mattenbach",3
+"225",225,"2019-09-01",8,0.5,"ABC-Stadt","Oberwinterthur",3
+"226",226,"2019-08-31",17,0.5,"Falschmeldung","Stadt",1
+"227",227,"2019-08-29",20,0.5,"Wasserwehr","Oberwinterthur",3
+"228",228,"2019-08-28",13,1,"Tiereinsatz","Wülflingen",3
+"229",229,"2019-08-26",20,1,"Personenbergung/Personenrettung","Wülflingen",4
+"230",230,"2019-08-26",15,3,"Stützpunkt Nationalstrasse","A1",5
+"231",231,"2019-08-26",0,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"232",232,"2019-08-25",20,0.5,"Personenbergung/Personenrettung","Seen",4
+"233",233,"2019-08-25",19,0.5,"Personenbergung/Personenrettung","Wülflingen",4
+"234",234,"2019-08-25",3,4,"Wasserwehr Gross","Veltheim",1
+"235",235,"2019-08-23",13,0.5,"Hilfeleistung","Steig",2
+"236",236,"2019-08-22",20,1,"Brand Klein","Iberg",6
+"237",237,"2019-08-21",18,1,"Personenbergung/Personenrettung","Stadt",4
+"238",238,"2019-08-20",8,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"239",239,"2019-08-19",18,0.5,"Brand Fahrzeug","Stadt",3
+"240",240,"2019-08-18",20,0.5,"Stützpunkt ADL","Pfungen",4
+"241",241,"2019-08-18",19,1.5,"Personenbergung/Personenrettung","Stadt",4
+"242",242,"2019-08-18",18,4,"Brand Mittel","Töss",1
+"243",243,"2019-08-18",17,0.5,"Hilfeleistung","Stadt",1
+"244",244,"2019-08-18",1,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"245",245,"2019-08-16",19,1,"Hilfeleistung","Stadt",3
+"246",246,"2019-08-16",5,1,"Personenbergung/Personenrettung","Wülflingen",4
+"247",247,"2019-08-15",18,1.5,"ABC-Gas","Stadt",1
+"248",248,"2019-08-14",19,0.5,"ABC-Gas","Seen",8
+"249",249,"2019-08-14",19,0.5,"ABC-Gas","Töss",1
+"250",250,"2019-08-14",13,0.5,"ABC-Stadt","Stadt",3
+"251",251,"2019-08-14",12,0.5,"Automatische Gefahrenmeldeanlage","Töss",8
+"252",252,"2019-08-13",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"253",253,"2019-08-13",16,1,"ABC-Stadt","Oberwinterthur",3
+"254",254,"2019-08-12",11,0.5,"Personenbergung/Personenrettung","Töss",4
+"255",255,"2019-08-12",9,0.5,"Personenbergung/Personenrettung","Oberwinterthur",6
+"256",256,"2019-08-11",21,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"257",257,"2019-08-11",5,0.5,"Automatische Gefahrenmeldeanlage","Wülflingen",9
+"258",258,"2019-08-10",10,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"259",259,"2019-08-09",20,0.5,"Hilfeleistung","Stadt",3
+"260",260,"2019-08-09",9,0.5,"Personenbergung/Personenrettung","Stadt",1
+"261",261,"2019-08-08",18,1,"Personenbergung/Personenrettung","Stadt",6
+"262",262,"2019-08-08",17,0.5,"ABC-Gas","Stadt",1
+"263",263,"2019-08-08",15,1.5,"Stützpunkt Nationalstrasse","A1 Rastplatz Kempthal",1
+"264",264,"2019-08-08",7,1,"Technische Hilfeleistung","Stadt",3
+"265",265,"2019-08-08",2,0.5,"Hilfeleistung","Wülflingen",9
+"266",266,"2019-08-07",20,0.5,"Personenrettung","Mattenbach",4
+"267",267,"2019-08-07",18,1,"Elementar Wasser","Stadt",3
+"268",268,"2019-08-06",10,0.5,"Elementar Wasser","Stadt",3
+"269",269,"2019-08-06",10,0.5,"Elementar Wasser","Töss",3
+"270",270,"2019-08-06",0,1,"Explosion/Verpuffung/Blitzschlag","Oberwinterthur",1
+"271",271,"2019-08-05",18,0.5,"Brand Klein","Stadt",1
+"272",272,"2019-08-05",14,0.5,"Brand Klein","Stadt",1
+"273",273,"2019-08-05",10,4,"Wasserwehr Klein","Wülflingen",3
+"274",274,"2019-08-04",16,1,"Raucherzeugung","Seen",1
+"275",275,"2019-08-04",14,0.5,"Brand Klein","Mattenbach",4
+"276",276,"2019-08-03",6,0.5,"Brand Klein","Stadt",3
+"277",277,"2019-08-02",0,2,"Personenbergung/Personenrettung","Mattenbach",1
+"278",278,"2019-08-01",22,0.5,"Falschmeldung","Oberwinterthur",3
+"279",279,"2019-08-01",22,0.5,"Falschmeldung","Hegi",5
+"280",280,"2019-08-01",22,0.5,"Falschmeldung","Hegi",4
+"281",281,"2019-08-01",20,0.5,"Brand klein","Stadt",4
+"282",282,"2019-07-31",18,1,"Hilfeleistung","Oberwinterthur",1
+"283",283,"2019-07-31",16,2,"ABC-Stadt","Oberwinterthur",4
+"284",284,"2019-07-31",12,5.5,"Personenbergung/Personenrettung","Andelfingen",7
+"285",285,"2019-07-29",11,1,"Personenrettung","Seen",4
+"286",286,"2019-07-28",22,0.5,"Personenbergung/Personenrettung","Stadt",6
+"287",287,"2019-07-28",10,1,"Wasserwehr Klein","Reutlingen",3
+"288",288,"2019-07-28",8,2,"Wasserwehr Klein","Reutlingen",3
+"289",289,"2019-07-27",0,0.5,"Personenbergung/Personenrettung","Mattenbach",1
+"290",290,"2019-07-26",14,0.5,"Personenrettung","Stadt",4
+"291",291,"2019-07-26",12,1,"Brand klein","Seen",1
+"292",292,"2019-07-26",10,0.5,"Tiereinsatz","Seen",3
+"293",293,"2019-07-26",8,0.5,"Personenrettung","Stadt",4
+"294",294,"2019-07-24",16,1,"Stützpunkt Automobildrehleiter","Altikon",4
+"295",295,"2019-07-24",13,1,"Personenrettung / Personenbergung","Stadt",6
+"296",296,"2019-07-23",17,1,"Tiereinsatz","Wülflingen",6
+"297",297,"2019-07-23",12,1,"Tiereinsatz","Wülflingen",3
+"298",298,"2019-07-23",2,1,"Brand Mittel","Wülflingen",1
+"299",299,"2019-07-22",17,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"300",300,"2019-07-21",14,0.5,"Tiereinsatz","Stadt",4
+"301",301,"2019-07-21",12,1,"ABC Stadt","Stadt",3
+"302",302,"2019-07-20",15,0.5,"Brand klein","Seen",3
+"303",303,"2019-07-20",10,1,"Tiereinsatz","Oberwinterthur",3
+"304",304,"2019-07-20",6,0.5,"Personenbergung/Personenrettung","Stadt",6
+"305",305,"2019-07-19",23,1,"Personenbergung/Personenrettung","Seen",4
+"306",306,"2019-07-19",20,1,"Tiereinsatz","Töss",3
+"307",307,"2019-07-19",18,1,"Brand klein","Veltheim",1
+"308",308,"2019-07-18",12,1.5,"Personenrettung/Personenbergung","Wülflingen",4
+"309",309,"2019-07-17",21,1,"Brand Klein","Neuhegi",1
+"310",310,"2019-07-17",14,1,"Tiereinsatz","Seen",3
+"311",311,"2019-07-17",6,0.5,"Automatische Gefahrenmeldeanlage","Wülflingen",9
+"312",312,"2019-07-16",18,1,"Personenbergung/Personenrettung","Wülflingen",1
+"313",313,"2019-07-16",12,1,"Personenbergung/Personenrettung","Wülflingen",4
+"314",314,"2019-07-16",9,0.5,"Automatische Gefahrenmeldeanlage","Stadt",1
+"315",315,"2019-07-15",22,1.5,"Automatische Gefahrenmeldeanlage","Tössfeld",9
+"316",316,"2019-07-15",21,2.5,"Wasserwehr","Wülflingen",3
+"317",317,"2019-07-14",6,1,"Personenrettung/Personenbergung","Oberwinterthur",4
+"318",318,"2019-07-13",17,0.5,"Brand Klein","Veltheim",5
+"319",319,"2019-07-13",16,2.5,"Wasserwehr Mittel","Veltheim",1
+"320",320,"2019-07-13",8,2,"ABC Stadt","Stadt",4
+"321",321,"2019-07-13",6,0.5,"Automatische Gefahrenmeldeanlage","Stadt",1
+"322",322,"2019-07-12",14,2.5,"Stützpunkt Nationalstrasse","Autobahn A1",1
+"323",323,"2019-07-11",10,1,"Hilfeleistung","Töss",4
+"324",324,"2019-07-11",7,1,"Automatische Gefahrenmeldeanlage","Stadt",8
+"325",325,"2019-07-11",4,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"326",326,"2019-07-10",23,1,"Automatische Gefahrenmeldeanlage","Stadt",9
+"327",327,"2019-07-10",16,1,"Hilfeleistung","Stadt",4
+"328",328,"2019-07-09",11,1,"Stützpunkt Nationalstrasse","Töss",1
+"329",329,"2019-07-08",18,1,"Brand Klein","Wülflingen",1
+"330",330,"2019-07-08",16,1,"Brand Klein","Töss",1
+"331",331,"2019-07-07",8,0.5,"Elementar Sturm","Ricketwil",3
+"332",332,"2019-07-06",16,1,"Personenrettung/Personenbergung","Wülflingen",4
+"333",333,"2019-07-05",17,1,"ABC-Stadt","Stadt",3
+"334",334,"2019-07-05",14,0.5,"Tiereinsatz","Stadt",3
+"335",335,"2019-07-05",4,0.5,"Personenbergung/Personenrettung","Töss",4
+"336",336,"2019-07-04",23,0.5,"Falschmeldung","Stadt",1
+"337",337,"2019-07-04",20,1.5,"Stützpunkt Nationalstrasse","Wülflingen",4
+"338",338,"2019-07-04",13,1,"Brand Klein","Wülflingen",1
+"339",339,"2019-07-03",7,0.5,"Personenrettung/Personenbergung","Oberwinterthur",4
+"340",340,"2019-07-02",16,0.5,"Brand klein","Oberwinterthur",9
+"341",341,"2019-07-01",12,0.5,"ABC-Stadt","Oberwinterthur",3
+"342",342,"2019-07-01",2,2,"Wasserwehr Klein","Stadt",3
+"343",343,"2019-07-01",0,0.5,"Hilfeleistung","Stadt",3
+"344",344,"2019-06-30",11,1.5,"Rauchentwicklung","Stadt",1
+"345",345,"2019-06-30",10,0.5,"Wasserwehr","Stadt",3
+"346",346,"2019-06-29",20,0.5,"Personenrettung/Personenbergung","Oberwinterthur",6
+"347",347,"2019-06-29",19,0.5,"Stützpunkt Automobildrehleiter","Hettlingen",4
+"348",348,"2019-06-29",18,1,"Stützpunkt Strassenrettung","Effretikon",7
+"349",349,"2019-06-29",10,0.5,"Personenrettung/Personenbergung","Mattenbach",3
+"350",350,"2019-06-28",23,0.5,"Personenbergung/Personenrettung","Sennhof",8
+"351",351,"2019-06-28",11,0.5,"ABC-Stadt","Stadt",3
+"352",352,"2019-06-28",11,0.5,"Personenbergung/Personenrettung","Hegi",8
+"353",353,"2019-06-27",22,1,"Personenrettung/Personenrettung","Oberwinterthur",6
+"354",354,"2019-06-27",16,1,"Personenrettung/Personenbergung","Oberwinterthur",6
+"355",355,"2019-06-27",14,1,"Tiereinsatz","Seen",4
+"356",356,"2019-06-27",7,1,"Strassenrettung Stützpunkt","Oberwil",7
+"357",357,"2019-06-27",6,1,"Automatische Gefahrenmeldeanlage","Töss",1
+"358",358,"2019-06-26",19,2.5,"ABC-Stadt","Oberwinterthur",1
+"359",359,"2019-06-26",16,1,"Personenrettung/Personenbergung","Oberwinterthur",4
+"360",360,"2019-06-26",14,0.5,"Personenrettung/Personenbergung","Stadt",8
+"361",361,"2019-06-25",20,0.5,"Falschmeldung","Wülflingen",6
+"362",362,"2019-06-23",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"363",363,"2019-06-23",8,2,"Elementar Sturm","Wülflingen",3
+"364",364,"2019-06-22",15,0.5,"Elementar Sturm","Veltheim",3
+"365",365,"2019-06-21",21,0.5,"Tiereinsatz","Töss",3
+"366",366,"2019-06-21",19,0.5,"Personenbergung/Personenrettung","Seen",4
+"367",367,"2019-06-20",21,1,"Raucherzeugung/Dampfaustritt","Stadt",4
+"368",368,"2019-06-19",22,0.5,"Elementar Sturm","Töss",4
+"369",369,"2019-06-19",20,1,"Tiereinsatz","Stadt",4
+"370",370,"2019-06-19",17,1,"Tiereinsatz","Stadt",7
+"371",371,"2019-06-18",23,1,"Wasserwehr klein","Oberwinterthur",3
+"372",372,"2019-06-18",20,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"373",373,"2019-06-18",19,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"374",374,"2019-06-18",18,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"375",375,"2019-06-18",18,0.5,"Raucherzeugung/Dampfaustritt","Oberwinterthur",1
+"376",376,"2019-06-18",15,1,"Automatische Gefahrenmeldeanlage","Oberwinterthur",1
+"377",377,"2019-06-18",12,0.5,"Automatische Gefahrenmeldeanlage","Tössfeld",9
+"378",378,"2019-06-17",23,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"379",379,"2019-06-17",5,0.5,"Automatische Gefahrenmeldeanlage","Hegi",8
+"380",380,"2019-06-16",19,0.5,"Tiereinsatz","Veltheim",3
+"381",381,"2019-06-16",14,2,"Wasserwehr Mittel","Stadt",7
+"382",382,"2019-06-16",12,2,"Elementar Wasser","Reutlingen",5
+"383",383,"2019-06-16",11,1,"Elementar Sturm","Stadt",3
+"384",384,"2019-06-16",9,1,"Hilfeleistung","Töss",9
+"385",385,"2019-06-16",8,0.5,"Automatische Gefahrenmeldeanlage","Wülflingen",6
+"386",386,"2019-06-16",8,2,"Wasserwehr klein","Stadel",1
+"387",387,"2019-06-15",20,2.5,"Elementar Sturm","Oberwinterthur",5
+"388",388,"2019-06-15",20,5.5,"Elementar Wasser","Stadtgebiet",2
+"389",389,"2019-06-15",13,1,"Personenrettung/Personenbergung","Oberwinterthur",6
+"390",390,"2019-06-14",20,0.5,"Tiereinsatz","Stadt",3
+"391",391,"2019-06-14",17,0.5,"Tiereinsatz","Stadt",3
+"392",392,"2019-06-14",15,1,"Patientenbergung/Patientenrettung","Sennhof",3
+"393",393,"2019-06-14",12,0.5,"Tiereinsatz","Rosenberg",3
+"394",394,"2019-06-14",7,1,"Personenbergung/Personenrettung","Stadt",4
+"395",395,"2019-06-13",14,1,"Tiereinsatz","Oberwinterthur",3
+"396",396,"2019-06-12",17,1,"Tiereinsatz","Breite",3
+"397",397,"2019-06-12",9,1,"Personenbergung/Personenrettung","Stadt",5
+"398",398,"2019-06-11",19,1,"Stützpunkt Gemeinde","Seuzach",9
+"399",399,"2019-06-11",19,0.5,"Wasserwehr Mittel","Stadt",9
+"400",400,"2019-06-10",18,0.5,"Personenbergung/Personenrettung","Stadt",4
+"401",401,"2019-06-10",17,1.5,"ABC-Stadt","Oberwinterthur",3
+"402",402,"2019-06-10",17,1.5,"Tiereinsatz","Oberwinterthur",6
+"403",403,"2019-06-09",17,1,"Personenrettung/Personenbergung","Oberwinterthur",4
+"404",404,"2019-06-09",16,1,"Personenrettung/Personenbergung","Mattenbach",4
+"405",405,"2019-06-09",13,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"406",406,"2019-06-08",17,1,"Automatische Gefahrenmeldeanlage","Töss",9
+"407",407,"2019-06-08",11,1,"Tiereinsatz","Stadt",3
+"408",408,"2019-06-07",17,1,"ABC-Gas","Hegi",1
+"409",409,"2019-06-07",12,1,"ABC-Stadt","Sennhof",3
+"410",410,"2019-06-07",10,0.5,"ABC-Stadt","Oberwinterthur",3
+"411",411,"2019-06-06",22,1,"Wasserwehr","Stadt",5
+"412",412,"2019-06-06",18,0.5,"Brand Klein","Stadt",4
+"413",413,"2019-06-06",11,0.5,"Brand Klein","Oberwinterthur",5
+"414",414,"2019-06-05",18,0.5,"Personenrettung/Personenbergung","Stadt",6
+"415",415,"2019-06-05",0,1,"Wasserwehr Klein","Wülflingen",3
+"416",416,"2019-06-04",19,1,"Tiereinsatz","Oberwinterthur",4
+"417",417,"2019-06-04",17,1,"Raucherzeugung/Dampfaustritt","Seen",1
+"418",418,"2019-06-04",4,0.5,"Automatische Gefahrenmeldeanlage","Töss",8
+"419",419,"2019-06-03",17,1,"Wasserwehr Klein","Oberwinterthur",3
+"420",420,"2019-06-03",15,3,"ABC-Stadt","Stadt",3
+"421",421,"2019-06-03",13,1,"Technische Hilfeleistung","Stadt",3
+"422",422,"2019-06-03",9,1,"Personenrettung/ Personenbergung","Stadt",4
+"423",423,"2019-06-02",17,1,"Tiereinsatz","Oberwinterthur",3
+"424",424,"2019-06-02",15,2,"ABC-Stadt","Töss",4
+"425",425,"2019-06-02",4,0.5,"Brand Klein","Stadt",4
+"426",426,"2019-06-01",20,1,"Personenbergung/Personenrettung","Stadt",4
+"427",427,"2019-06-01",8,1,"Tiereinsatz","Veltheim",4
+"428",428,"2019-05-31",16,1,"Tiereinsatz","Veltheim",4
+"429",429,"2019-05-31",15,1.5,"Brand Klein","Wülflingen",4
+"430",430,"2019-05-31",10,1.5,"Stützpunkt Schiene","Effretikon",7
+"431",431,"2019-05-29",12,1,"ABC-Stadt","Töss",3
+"432",432,"2019-05-29",8,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",1
+"433",433,"2019-05-29",4,2,"Wasserwehr","Stadt",6
+"434",434,"2019-05-29",1,1,"Automatische Gefahrenmeldeanlage","Stadt",9
+"435",435,"2019-05-28",8,1,"Tiereinsatz","Töss",3
+"436",436,"2019-05-28",3,0.5,"ABC-Gas","Wülflingen",1
+"437",437,"2019-05-27",16,1,"Tiereinsatz","Töss",1
+"438",438,"2019-05-27",11,3,"ABC-Gas","Wülflingen",1
+"439",439,"2019-05-27",10,1,"Automatische Gefahrenmeldeanlage","Oberwinterthur",8
+"440",440,"2019-05-26",22,1,"Brand Klein","Stadt",1
+"441",441,"2019-05-26",16,1,"Tiereinsatz","Wülflingen",4
+"442",442,"2019-05-26",12,0.5,"Tiereinsatz","Stadt",6
+"443",443,"2019-05-26",11,0.5,"Pioniereinsatz","Stadt",1
+"444",444,"2019-05-26",0,1,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"445",445,"2019-05-25",15,1,"Hilfeleistung","Veltheim",5
+"446",446,"2019-05-25",10,1,"Hilfeleistung","Wülflingen",3
+"447",447,"2019-05-25",2,2.5,"Brand Mittel","Töss",1
+"448",448,"2019-05-24",17,1,"Tiereinsatz","Stadt",3
+"449",449,"2019-05-24",6,1,"ABC-Stadt","Veltheim",3
+"450",450,"2019-05-23",16,1,"Personenbergung/Personenrettung","Seen",8
+"451",451,"2019-05-23",15,0.5,"Tiereinsatz","Stadt",3
+"452",452,"2019-05-23",14,0.5,"Tiereinsatz","Stadt",3
+"453",453,"2019-05-23",14,1.5,"ABC-Stadt","Töss",3
+"454",454,"2019-05-23",10,1.5,"Stützpunkt Automobildrehleiter","Wiesendangen",3
+"455",455,"2019-05-22",23,1,"ABC-Stadt","Steig",4
+"456",456,"2019-05-22",16,1,"ABC-Stadt","Mattenbach",9
+"457",457,"2019-05-22",14,3,"ABC-Stadt","Oberwinterthur",1
+"458",458,"2019-05-22",1,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",8
+"459",459,"2019-05-21",18,1,"Tiereinsatz","Seen",3
+"460",460,"2019-05-21",17,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",7
+"461",461,"2019-05-21",8,0.5,"Rauchentwicklung","Mattenbach",6
+"462",462,"2019-05-20",20,1,"Hilfeleistung","Stadt",3
+"463",463,"2019-05-20",18,1,"ABC-Stadt","Seen",4
+"464",464,"2019-05-20",17,0.5,"Automatische Gefahrenmeldeanlage","Stadt",1
+"465",465,"2019-05-20",15,9,"Wasserwehr","Stadtgebiet",2
+"466",466,"2019-05-19",17,1,"Tiereinsatz","Mattenbach",4
+"467",467,"2019-05-19",14,1,"Tiereinsatz","Stadt",4
+"468",468,"2019-05-18",21,1,"Hilfeleistung","Wülflingen",3
+"469",469,"2019-05-16",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"470",470,"2019-05-16",12,1,"Hilfeleistung","Stadt",4
+"471",471,"2019-05-15",18,0.5,"ABC-Stadt","Stadt",3
+"472",472,"2019-05-15",9,1,"ABC-Stadt","Veltheim",3
+"473",473,"2019-05-14",19,0.5,"Brand Klein","Seen",4
+"474",474,"2019-05-14",12,2,"ABC-Stadt","Stadt",8
+"475",475,"2019-05-14",11,0.5,"Tiereinsatz","Stadt",3
+"476",476,"2019-05-14",9,0.5,"Automatische Gefahrenmeldeanlage","Stadt",1
+"477",477,"2019-05-13",20,1,"Stützpunkt Automobildrehleiter","Wiesendangen",4
+"478",478,"2019-05-13",13,0.5,"Brand Klein","Stadt",4
+"479",479,"2019-05-13",11,1,"Wasserwehr Klein","Oberwinterthur",1
+"480",480,"2019-05-12",12,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"481",481,"2019-05-11",17,1.5,"Elementar Sturm","Stadt",1
+"482",482,"2019-05-11",2,0.5,"ABC-Stadt","Töss",8
+"483",483,"2019-05-10",16,1,"Tiereinsatz","Stadt",4
+"484",484,"2019-05-10",9,0.5,"Personenbergung/Personenrettung","Wülflingen",4
+"485",485,"2019-05-09",13,0.5,"Elementar Sturm","Stadt",3
+"486",486,"2019-05-09",12,0.5,"Personenbergung/Personenrettung","Sennhof",4
+"487",487,"2019-05-08",22,0.5,"ABC-Stadt","Stadt",3
+"488",488,"2019-05-08",20,3,"Wasserwehr Gross","Stadt",7
+"489",489,"2019-05-08",11,0.5,"ABC-Stadt","Töss",3
+"490",490,"2019-05-07",19,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"491",491,"2019-05-07",17,0.5,"Personenrettung","Stadt",4
+"492",492,"2019-05-07",12,1,"Tiereinsatz","Stadt",4
+"493",493,"2019-05-07",3,1,"Automatische Gefahrenmeldeanlage","Töss",8
+"494",494,"2019-05-06",6,4,"Wasserwehr Mittel","Hegi",1
+"495",495,"2019-05-05",19,1,"ABC-Stadt","Rosenberg",3
+"496",496,"2019-05-05",18,1.5,"Brand Klein","Stadt",6
+"497",497,"2019-05-05",16,2,"Wasserwehr Mittel","Hegi",7
+"498",498,"2019-05-05",10,0.5,"Elementar Sturm","Wülflingen",4
+"499",499,"2019-05-04",23,0.5,"ABC-Stadt","Seen",3
+"500",500,"2019-05-04",20,0.5,"Falschmeldung","Töss",1
+"501",501,"2019-05-04",11,0.5,"ABC-Gas","Stadt",9
+"502",502,"2019-05-04",8,0.5,"Brand Klein","Stadt",1
+"503",503,"2019-05-04",1,1,"Brand Klein","Seen",1
+"504",504,"2019-05-03",14,1.5,"ABC-Stadt","Wülflingen",3
+"505",505,"2019-05-02",18,1,"Personenbergung/Personenrettung","Wülflingen",1
+"506",506,"2019-05-02",17,0.5,"Brand Wald/Flur/Abraum","Oberwinterthur",3
+"507",507,"2019-05-02",16,0.5,"Personenbergung/Personenrettung","Seen",3
+"508",508,"2019-05-02",14,0.5,"Automatische Gefahrenmeldeanlage","Stadt",1
+"509",509,"2019-05-01",19,0.5,"Stützpunkt Automobildrehleiter","Pfungen",4
+"510",510,"2019-05-01",8,1,"Brand Klein","Veltheim",4
+"511",511,"2019-04-30",12,3,"Raucherzeugung","Stadt",1
+"512",512,"2019-04-30",11,1,"Hilfeleistung","Töss",3
+"513",513,"2019-04-30",6,0.5,"Automatische Gefahrenmeldeanlage","Töss",1
+"514",514,"2019-04-29",23,1,"Brand Klein","Stadt",1
+"515",515,"2019-04-29",17,0.5,"Hilfeleistung","Stadt",1
+"516",516,"2019-04-28",9,0.5,"Personenrettung/Personenbergung","Wülflingen",4
+"517",517,"2019-04-27",14,0.5,"Personenbergung","Veltheim",5
+"518",518,"2019-04-27",12,1.5,"Brand Mittel","Wülflingen",1
+"519",519,"2019-04-27",7,1,"Brand Klein","Veltheim",1
+"520",520,"2019-04-25",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"521",521,"2019-04-24",20,1,"Automatische Gefahrenmeldeanlage","Wülflingen",1
+"522",522,"2019-04-24",17,0.5,"Elementar Sturm","Stadt",8
+"523",523,"2019-04-24",14,1,"Tiereinsatz","Stadt",4
+"524",524,"2019-04-24",10,0.5,"Personenrettung","Veltheim",4
+"525",525,"2019-04-24",9,0.5,"Personenrettung","Wülflingen",4
+"526",526,"2019-04-23",17,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"527",527,"2019-04-23",9,0.5,"Automatische Gefahrenmeldeanlage","Stadt",7
+"528",528,"2019-04-22",22,1,"Brand Fahrzeug","Oberwinterthur",1
+"529",529,"2019-04-22",20,1,"Pioniereinsatz","Stadt",3
+"530",530,"2019-04-22",9,2,"Personenbergung/Personenrettung","Seen",6
+"531",531,"2019-04-21",19,1,"ABC-Stadt","Stadt",3
+"532",532,"2019-04-20",9,1,"Tiereinsatz","Wülflingen",4
+"533",533,"2019-04-20",0,0.5,"Brand Klein","Stadt",4
+"534",534,"2019-04-19",18,1,"Hilfeleistung","Wülflingen",4
+"535",535,"2019-04-18",23,0.5,"Automatische Gefahrenmeldeanlage","Stadt",5
+"536",536,"2019-04-18",23,1,"Stützpunkt Strassenrettung","Neftenbach",7
+"537",537,"2019-04-18",17,1.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",1
+"538",538,"2019-04-18",14,1,"Wasserwehr Klein","Stadt",3
+"539",539,"2019-04-17",16,1,"Stützpunkt Strassenrettung","Illnau-Effretikon",7
+"540",540,"2019-04-17",16,0.5,"Stützpunkt Strassenrettung","Illnau-Effretikon",7
+"541",541,"2019-04-17",16,0.5,"Wasserwehr Klein","Stadt",3
+"542",542,"2019-04-16",20,0.5,"Personenbergung/Personenrettung","Hegi",1
+"543",543,"2019-04-16",15,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"544",544,"2019-04-16",10,0.5,"Brand Klein","Töss",4
+"545",545,"2019-04-16",7,1,"Hilfeleistung","Veltheim",4
+"546",546,"2019-04-16",6,1,"Wasserwehr Klein","Wülflingen",1
+"547",547,"2019-04-15",18,0.5,"Personenrettung","Wülflingen",5
+"548",548,"2019-04-15",18,1.5,"Brand Mittel","Wülflingen",1
+"549",549,"2019-04-15",11,1,"Tiereinsatz","Seen",3
+"550",550,"2019-04-15",4,0.5,"Automatische Gefahrenmeldeanlage","Stadt",1
+"551",551,"2019-04-15",1,1,"Personenbergung/Personenrettung","Neftenbach",4
+"552",552,"2019-04-14",11,1,"ABC-Stadt","Hegi",3
+"553",553,"2019-04-13",9,0.5,"Hilfeleistung diverses","Mattenbach",2
+"554",554,"2019-04-12",18,1,"Stützpunkt Automobildrehleiter","Dinhard",4
+"555",555,"2019-04-12",15,1.5,"Raucherzeugung","Töss",1
+"556",556,"2019-04-12",10,2,"Personenrettung","Stadt",1
+"557",557,"2019-04-12",7,1,"Stützpunkt Automobildrehleiter","Wiesendangen",4
+"558",558,"2019-04-12",1,3.5,"Stützpunkt Automobildrehleiter","Aesch bei Neftenbach",4
+"559",559,"2019-04-11",23,1,"ABC-Messbus","Hombrechtikon",4
+"560",560,"2019-04-11",18,1,"Personenbergung/Personenrettung","Stadt",4
+"561",561,"2019-04-11",18,0.5,"Brand Fahrzeug","Stadt",1
+"562",562,"2019-04-11",11,0.5,"ABC-Gas","Mattenbach",1
+"563",563,"2019-04-10",13,1,"ABC-Messbus","Rüti ZH",4
+"564",564,"2019-04-09",10,1,"ABC-Stadt","Stadt",8
+"565",565,"2019-04-09",9,1,"Rauchentwicklung","Veltheim",8
+"566",566,"2019-04-08",17,1,"Automatische Gefahrenmeldeanlage","Stadt",1
+"567",567,"2019-04-08",14,1,"Brand Mittel","Stadt",1
+"568",568,"2019-04-08",13,0.5,"Hilfeleistung","Stadt",3
+"569",569,"2019-04-07",19,1,"Personenbergung/Personenrettung","Mattenbach",4
+"570",570,"2019-04-07",0,2.5,"ABC-Messbus","Wald",4
+"571",571,"2019-04-06",14,0.5,"Hilfeleistung","Mattenbach",9
+"572",572,"2019-04-06",12,1,"Rauchentwicklung","Wülflingen",1
+"573",573,"2019-04-06",11,0.5,"Personenrettung","Wülflingen",4
+"574",574,"2019-04-05",23,0.5,"Falschmeldung","Oberwinterthur",1
+"575",575,"2019-04-05",18,0.5,"Personenbergung/Personenrettung","Stadt",4
+"576",576,"2019-04-05",12,1,"ABC-Stadt","Stadt",3
+"577",577,"2019-04-05",2,1,"Automatische Gefahrenmeldeanlage","Töss",9
+"578",578,"2019-04-04",10,1,"Personenbergung/Personenrettung","Stadt",4
+"579",579,"2019-04-04",5,0.5,"Personenrettung","Veltheim",6
+"580",580,"2019-04-04",2,1,"Automatische Gefahrenmeldeanlage","Stadt",1
+"581",581,"2019-04-03",9,2,"Personenbergung/Personenrettung","Töss",1
+"582",582,"2019-04-03",9,0.5,"Personenbergung/Personenrettung","Seen",4
+"583",583,"2019-04-02",16,0.5,"Automatische Gefahrenmeldeanlage","Töss",9
+"584",584,"2019-04-02",11,2.5,"ABC-Stadt","Seen",1
+"585",585,"2019-04-01",23,1,"Hilfeleistung","Stadt",4
+"586",586,"2019-03-30",16,1,"ABC-Stadt","Grüze",3
+"587",587,"2019-03-29",11,0.5,"Brand Fahrzeug","Stadt",1
+"588",588,"2019-03-29",6,0.5,"Brand klein","Mattenbach",3
+"589",589,"2019-03-28",13,1,"Pioniereinsatz","Stadt",3
+"590",590,"2019-03-27",19,0.5,"Falschmeldung","Stadt",9
+"591",591,"2019-03-27",18,2.5,"ABC-Stützpunkt","Wädenswil",3
+"592",592,"2019-03-27",16,1,"Tiereinsatz","Wülflingen",3
+"593",593,"2019-03-27",10,0.5,"Personenbergung/Personenrettung","Wülflingen",4
+"594",594,"2019-03-26",14,1.5,"Personenbergung/Personenrettung","Wülflingen",4
+"595",595,"2019-03-26",3,0.5,"Wasserwehr klein","Töss",3
+"596",596,"2019-03-24",17,1,"Hilfeleistung","Hegi",3
+"597",597,"2019-03-24",12,2,"Brand Wald/Flur/Abraum","Seen",1
+"598",598,"2019-03-24",11,0.5,"Personenbergung/Personenrettung","Mattenbach",4
+"599",599,"2019-03-23",21,1,"Automatische Gefahrenmeldeanlage","Stadt",1
+"600",600,"2019-03-23",19,0.5,"Brand Klein","Stadt",1
+"601",601,"2019-03-20",17,0.5,"Lifteinsatz","Hegi",6
+"602",602,"2019-03-20",13,1.5,"Stützpunkt Nationalstrasse","A1 Fahrtrichtung St. Gallen",1
+"603",603,"2019-03-20",10,1,"Hilfeleistung","Töss",3
+"604",604,"2019-03-19",14,0.5,"Hilfeleistung","Oberwinterthur",3
+"605",605,"2019-03-18",18,0.5,"Elementar Sturm","Seen",4
+"606",606,"2019-03-17",17,1,"Raucherzeugung/Dampfaustritt","Wülflingen",2
+"607",607,"2019-03-17",15,1,"Automatische Gefahrenmeldeanlage","Töss",8
+"608",608,"2019-03-17",1,1.5,"Stützpunkt Schiene","Schottikon",9
+"609",609,"2019-03-16",20,0.5,"Falschmeldung","Stadt",3
+"610",610,"2019-03-14",19,0.5,"Brand Klein","Stadt",4
+"611",611,"2019-03-14",18,0.5,"Personenbergung/Personenrettung","Stadt",4
+"612",612,"2019-03-13",20,1,"Stützpunkt Automobildrehleiter","Wiesendangen",4
+"613",613,"2019-03-13",17,1,"Wasserwehr Klein","Oberwinterthur",3
+"614",614,"2019-03-13",7,0.5,"Brand Klein","Stadt",4
+"615",615,"2019-03-11",18,1,"Elementar Sturm","Sennhof",4
+"616",616,"2019-03-11",11,1,"ABC-Stadt","Stadt",3
+"617",617,"2019-03-11",11,1,"Personenbergung/Personenrettung","Oberwinterthur",6
+"618",618,"2019-03-10",15,0.5,"Brand Klein","Seen",9
+"619",619,"2019-03-10",14,1.5,"Elementar Sturm","Eidberg",3
+"620",620,"2019-03-10",12,1,"Rauchentwicklung","Stadt",1
+"621",621,"2019-03-10",9,0.5,"Elementar Sturm","Stadt",4
+"622",622,"2019-03-10",5,0.5,"Brand Klein","Stadt",4
+"623",623,"2019-03-09",18,0.5,"Personenbergung/Personenrettung","Wülflingen",4
+"624",624,"2019-03-09",12,0.5,"Personenbergung/Personenrettung","Töss",4
+"625",625,"2019-03-09",1,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"626",626,"2019-03-08",18,1.5,"ABC-Stadt","Töss",4
+"627",627,"2019-03-08",18,0.5,"Brand Klein","Stadt",1
+"628",628,"2019-03-07",8,0.5,"Hilfeleistung","Oberwinterthur",6
+"629",629,"2019-03-07",7,1,"Personenrettung/Personenbergung","Oberwinterthur",4
+"630",630,"2019-03-06",20,0.5,"Tiereinsatz","Seen",4
+"631",631,"2019-03-06",17,1.5,"ABC-Stadt","Seen",8
+"632",632,"2019-03-06",11,1,"Elementar Sturm","Wülflingen",6
+"633",633,"2019-03-05",22,1,"Automatische Gefahrenmeldeanlage","Oberwinterthur",1
+"634",634,"2019-03-05",20,2,"Stützpunkt Automobildrehleiter","Aesch b. Neftenbach",4
+"635",635,"2019-03-05",17,1,"Elementar Sturm","Oberseen",4
+"636",636,"2019-03-04",22,1.5,"Brand Klein","Stadt",2
+"637",637,"2019-03-04",17,1,"Elementar Sturm","Stadt",3
+"638",638,"2019-03-04",16,0.5,"Elementar Sturm","Stadt",4
+"639",639,"2019-03-04",9,1,"Elementar Sturm","Töss",5
+"640",640,"2019-03-03",20,2,"Stützpunkt","Illnau-Effretikon",7
+"641",641,"2019-03-03",0,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"642",642,"2019-03-02",12,0.5,"Brand Klein","Stadt",4
+"643",643,"2019-03-02",8,1,"Falschmeldung","Oberwinterthur",1
+"644",644,"2019-03-02",7,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"645",645,"2019-03-01",23,1,"Personenbergung/Personenrettung","Stadt",6
+"646",646,"2019-03-01",15,0.5,"Stützpunkt Gemeinde","Embrach",7
+"647",647,"2019-03-01",15,1,"Personenbergung / Personenrettung","Töss",4
+"648",648,"2019-02-28",23,0.5,"Personenbergung/Personenrettung","Hegi",4
+"649",649,"2019-02-28",15,2,"ABC-Stadt","Stadt",1
+"650",650,"2019-02-27",16,1,"Personenrettung/Personenbergung","Mattenbach",4
+"651",651,"2019-02-27",13,2,"Brand Klein","Oberwinterthur",2
+"652",652,"2019-02-25",18,0.5,"Brand Klein","Töss",5
+"653",653,"2019-02-25",17,1,"Personenbergung nach Verkehrsunfall","Illnau",7
+"654",654,"2019-02-25",11,3,"ABC-Stadt","Stadtgebiet",1
+"655",655,"2019-02-25",9,1,"Brand Klein","Wülflingen",1
+"656",656,"2019-02-24",17,0.5,"Brand Klein","Oberwinterthur",4
+"657",657,"2019-02-24",16,0.5,"Brand Klein","Töss",4
+"658",658,"2019-02-24",5,0.5,"Brand Klein","Stadt",4
+"659",659,"2019-02-24",0,0.5,"Brand Klein","Töss",4
+"660",660,"2019-02-21",7,1,"ABC-Gas","Stadt",1
+"661",661,"2019-02-21",7,1,"Brand Klein","Stadt",1
+"662",662,"2019-02-20",10,0.5,"Personenrettung/Personenbergung","Stadt",4
+"663",663,"2019-02-19",21,0.5,"Hilfeleistung","Stadt",3
+"664",664,"2019-02-19",17,6,"Hilfeleistung","Seen",5
+"665",665,"2019-02-19",14,1.5,"Automatische Gefahrenmeldeanlage","Stadt",1
+"666",666,"2019-02-17",13,1,"Rauchentwicklung","Töss",1
+"667",667,"2019-02-16",1,2,"Automatische Gefahrenmeldeanlage","Neuhegi",9
+"668",668,"2019-02-13",17,1,"Brand Klein","Seen",1
+"669",669,"2019-02-13",14,1.5,"Brand Klein","Stadt",1
+"670",670,"2019-02-13",11,0.5,"Personenbergung/Personenrettung","Seen",4
+"671",671,"2019-02-12",13,1,"Personenrettung/Personenbergung","Veltheim",4
+"672",672,"2019-02-12",10,0.5,"Automatische Gefahrenmeldeanlage","Tössfeld",9
+"673",673,"2019-02-11",21,0.5,"Personenrettung","Oberwinterthur",4
+"674",674,"2019-02-11",18,1,"ABC Stadt","Wülflingen",3
+"675",675,"2019-02-10",21,0.5,"Wasserwehr Mittel","Stadt",4
+"676",676,"2019-02-09",19,0.5,"ABC-Gas","Oberwinterthur",1
+"677",677,"2019-02-09",12,0.5,"Automatische Gefahrenmeldeanlage","Wülflingen",9
+"678",678,"2019-02-07",12,1,"Brand Klein","Stadt",6
+"679",679,"2019-02-05",20,1,"Brand klein","Oberwinterthur",1
+"680",680,"2019-02-05",11,0.5,"Automatische Brandmeldung","Töss",9
+"681",681,"2019-02-05",10,0.5,"Automatische Brandmeldung","Stadt",9
+"682",682,"2019-02-05",1,1,"Automatische Brandmeldung","Oberwinterthur",9
+"683",683,"2019-02-04",13,3,"ABC-Messbus","Wolfhausen",4
+"684",684,"2019-02-04",8,5,"Stützpunkt Automobildrehleiter","Weisslingen",4
+"685",685,"2019-02-03",17,1,"ABC-Messbus","Effretikon",4
+"686",686,"2019-02-03",12,2,"ABC-Messbus","Wetzikon",4
+"687",687,"2019-02-03",9,0.5,"Brand Klein","Stadt",6
+"688",688,"2019-02-03",5,5,"Personenbergung nach Verkehrsunfall","Veltheim",1
+"689",689,"2019-02-02",18,0.5,"Falschmeldung","Oberwinterthur",4
+"690",690,"2019-02-02",18,3.5,"Brand Mittel","Stadt",1
+"691",691,"2019-02-01",21,1.5,"Falschmeldung","Sennhof",2
+"692",692,"2019-01-31",17,1,"Personenbergung/Personenrettung","Stadt",6
+"693",693,"2019-01-31",14,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"694",694,"2019-01-30",19,1.5,"Brand Klein","Stadt",1
+"695",695,"2019-01-27",12,0.5,"Personenbergung/Personenrettung","Stadt",1
+"696",696,"2019-01-26",9,0.5,"Personenbergung / Personenrettung","Stadt",4
+"697",697,"2019-01-25",22,0.5,"Automatische Gefahrenmeldeanlage","Seen",9
+"698",698,"2019-01-25",13,1,"Hilfeleistung","Töss",6
+"699",699,"2019-01-25",11,1,"Hilfeleistung","Mattenbach",4
+"700",700,"2019-01-25",8,1.5,"Brand Fahrzeug","Stadt",1
+"701",701,"2019-01-25",1,1,"Automatische Gefahrenmeldeanlage","Stadt",1
+"702",702,"2019-01-24",10,1,"Stützpunkt Automobildrehleiter","Dinhard",4
+"703",703,"2019-01-23",15,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"704",704,"2019-01-22",20,0.5,"ABC-Stadt","Seen",1
+"705",705,"2019-01-22",6,0.5,"Brand Klein","Oberwinterthur",4
+"706",706,"2019-01-21",19,1,"ABC Messbus","Mattenbach",4
+"707",707,"2019-01-20",23,0.5,"Personenbergung/Personenrettung","Stadt",6
+"708",708,"2019-01-19",11,1,"Personenbergung/Personenrettung","Seen",7
+"709",709,"2019-01-18",15,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"710",710,"2019-01-18",7,0.5,"Falschmeldung","Wülflingen",1
+"711",711,"2019-01-17",13,0.5,"Personenbergung/Personenrettung","Dättnau",4
+"712",712,"2019-01-16",17,1,"Personenrettung/Personenbergung","Seen",4
+"713",713,"2019-01-16",11,0.5,"Personenrettung/Personenbergung","Stadt",4
+"714",714,"2019-01-15",17,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"715",715,"2019-01-15",13,0.5,"Personenrettung","Reutlingen",4
+"716",716,"2019-01-15",9,0.5,"Personenrettung","Töss",4
+"717",717,"2019-01-14",16,1,"Stützpunkt Automobildrehleiter","Wiesendangen",4
+"718",718,"2019-01-13",18,0.5,"Elementar Sturm","Seen",3
+"719",719,"2019-01-11",17,1,"Brand Klein","Reutlingen",1
+"720",720,"2019-01-11",16,1,"Personenbergung/Personenrettung","Stadt",4
+"721",721,"2019-01-10",21,1,"Automatische Gefahrenmeldeanlage","Neuhegi",9
+"722",722,"2019-01-10",11,1,"Brand Klein","Seen",1
+"723",723,"2019-01-09",20,1,"Personenrettung","Wülflingen",4
+"724",724,"2019-01-09",14,0.5,"Falschmeldung","Oberwinterthur",3
+"725",725,"2019-01-09",9,4.5,"Brand Mittel","Seen",1
+"726",726,"2019-01-09",9,1,"Automatische Gefahrenmeldeanlage","Stadt",1
+"727",727,"2019-01-09",5,0.5,"Automatische Gefahrenmeldeanlage","Töss",9
+"728",728,"2019-01-08",15,1,"Hilfeleistung","Illnau-Effretikon",2
+"729",729,"2019-01-08",13,0.5,"ABC-Stadt","Stadt",3
+"730",730,"2019-01-08",8,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"731",731,"2019-01-07",15,3.5,"Stützpunkt ADL","Gundetswil",7
+"732",732,"2019-01-07",12,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"733",733,"2019-01-07",7,0.5,"Raucherzeugung/Dampfaustritt","Stadt",1
+"734",734,"2019-01-04",15,1,"Personenbergung/Personenrettung","Töss",4
+"735",735,"2019-01-04",14,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"736",736,"2019-01-04",10,0.5,"Automatische Gefahrenmeldeanlage","Töss",9
+"737",737,"2019-01-04",8,1,"Automatische Gefahrenmeldeanlage","Tössfeld",8
+"738",738,"2019-01-03",14,1,"Hilfeleistung","Stadt",1
+"739",739,"2019-01-03",9,0.5,"Personenrettung","Mattenbach",4
+"740",740,"2019-01-01",11,1,"Mottbrand","Rychenberg",6
+"741",741,"2019-01-01",8,0.5,"Falschmeldung","Stadt",1
+"742",742,"2019-01-01",1,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"743",743,"2020-06-02",14,1,"Hilfeleistung","Hegi",4
+"744",744,"2020-06-02",10,1,"Stützpunkt Nationalstrasse","A1",1
+"745",745,"2020-06-01",20,0.5,"Brand Klein","Stadt",3
+"746",746,"2020-06-01",0,1,"Brand Klein","Stadt",7
+"747",747,"2020-05-31",22,0.5,"Falschmeldung","Töss",1
+"748",748,"2020-05-31",11,1,"Stützpunkt Nationalstrasse","A1",1
+"749",749,"2020-05-30",22,1,"Brand Klein","Oberwinterthur",4
+"750",750,"2020-05-30",14,0.5,"Tiereinsatz","Stadt",3
+"751",751,"2020-05-30",12,0.5,"Brand Klein","Veltheim",4
+"752",752,"2020-05-30",6,0.5,"Lifteinsatz","Seen",5
+"753",753,"2020-05-30",0,0.5,"Wasserwehr Klein","Stadt",3
+"754",754,"2020-05-29",19,1,"Automatische Gefahrenmeldeanlage","Töss",3
+"755",755,"2020-05-29",18,0.5,"Brand Klein","Wülflingen",1
+"756",756,"2020-05-29",9,1,"Tiereinsatz","Stadt",3
+"757",757,"2020-05-28",20,0.45,"Tiereinsatz","Reutlingen",3
+"758",758,"2020-05-28",8,1,"Brand Klein","Oberwinterthur",1
+"759",759,"2020-05-27",17,0.5,"Hilfeleistung","Töss",3
+"760",760,"2020-05-27",13,0.5,"Tiereinsatz","Stadt",3
+"761",761,"2020-05-27",11,0.5,"First-Responder-Einsatz","Stadt",4
+"762",762,"2020-05-27",8,0.5,"Brand Klein","Stadt",7
+"763",763,"2020-05-27",0,1,"Falschmeldung","Stadt",1
+"764",764,"2020-05-26",21,0.5,"Brand Klein","Seen",4
+"765",765,"2020-05-26",1,1,"Brand Klein","Sennhof",4
+"766",766,"2020-05-24",17,1,"Hilfeleistung","Oberwinterthur",4
+"767",767,"2020-05-24",16,0.5,"Stützpunkt Strassenrettung","Kyburg",7
+"768",768,"2020-05-23",19,0.5,"Falschmeldung","Oberwinterthur",3
+"769",769,"2020-05-23",18,1,"Tiereinsatz","Breite",3
+"770",770,"2020-05-23",12,0.5,"Tierrettung","Stadt",3
+"771",771,"2020-05-23",12,0.5,"Hilfeleistung","Stadt",3
+"772",772,"2020-05-23",11,0.5,"Hilfeleistung","Stadt",3
+"773",773,"2020-05-22",21,0.5,"Automatische Gefahrenmeldeanlage","Stadt",7
+"774",774,"2020-05-21",2,1,"ABC-Stadt","Stadt",3
+"775",775,"2020-05-20",1,6,"Brand Gross","Oberwinterthur",2
+"776",776,"2020-05-19",7,0.5,"Automatische Gefahrenmeldeanlage","Stadt",7
+"777",777,"2020-05-17",22,0.5,"Brand Klein","Dättnau",4
+"778",778,"2020-05-17",18,1.5,"Hilfeleistung","Wülflingen",1
+"779",779,"2020-05-17",16,1,"Personenrettung","Töss",4
+"780",780,"2020-05-17",8,1,"Brand Klein","Eschenberg",3
+"781",781,"2020-05-16",0,0.5,"Lifteinsatz","Stadt",5
+"782",782,"2020-05-16",0,0.5,"Hilfeleistung","Oberwinterthur",2
+"783",783,"2020-05-14",9,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",7
+"784",784,"2020-05-13",21,1,"ABC-Gas","Wülflingen",9
+"785",785,"2020-05-13",11,1,"ABC-Gas","Wülflingen",9
+"786",786,"2020-05-11",12,1,"Tiereinsatz","Oberwinterthur",3
+"787",787,"2020-05-10",15,1.5,"Stützpunkt Nationalstrasse","A1 Fahrbahn Zürich",1
+"788",788,"2020-05-10",8,0.5,"Brand Klein","Töss",5
+"789",789,"2020-05-10",1,1,"Automatische Gefahrenmeldeanlage","Oberwinterthur",1
+"790",790,"2020-05-09",20,1,"Rauchentwicklung","Seen",5
+"791",791,"2020-05-09",14,1,"Brand Klein","Wülflingen",3
+"792",792,"2020-05-09",13,1,"Pioniereinsatz","Töss",3
+"793",793,"2020-05-09",12,0.5,"Automatische Gefahrenmeldeanlage","Stadt",7
+"794",794,"2020-05-08",20,1,"Tiereinsatz","Seen",2
+"795",795,"2020-05-08",18,0.5,"Brand Klein","Seen",1
+"796",796,"2020-05-08",17,1,"Brand Klein","Töss",1
+"797",797,"2020-05-08",11,0.5,"Tiereinsatz","Oberwinterthur",3
+"798",798,"2020-05-08",6,1.5,"Personenrettung","Oberwinterthur",1
+"799",799,"2020-05-07",20,2,"Personenrettung","Stadt",1
+"800",800,"2020-05-07",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",7
+"801",801,"2020-05-07",5,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",7
+"802",802,"2020-05-04",16,1,"Tiereinsatz","Wülflingen",3
+"803",803,"2020-05-04",15,0.5,"Automatische Gefahrenmeldeanlage","Stadt",7
+"804",804,"2020-05-04",13,0.5,"Brand Klein","Stadt",5
+"805",805,"2020-05-04",9,1,"Tiereinsatz","Töss",3
+"806",806,"2020-05-03",9,0.5,"Brand Wald / Flur","Wülflingen",4
+"807",807,"2020-05-02",14,0.5,"Wasserwehr Klein","Stadt",3
+"808",808,"2020-05-01",15,1.5,"Personenbergung","Töss",5
+"809",809,"2020-05-01",9,1,"ABC-Gas","Stadt",1
+"810",810,"2020-05-01",4,0.5,"Brand klein","Oberwinterthur",4
+"811",811,"2020-04-30",23,0.5,"Personenrettung","Oberwinterthur",4
+"812",812,"2020-04-30",18,1,"ABC-Stadt","Stadt",3
+"813",813,"2020-04-30",15,1.5,"Brand Klein","Oberwinterthur",1
+"814",814,"2020-04-28",2,1,"Personenrettung","Oberwinterthur",4
+"815",815,"2020-04-26",20,1,"Brand Wald/Flur/Abraum","Stadt",3
+"816",816,"2020-04-25",21,0.5,"Technische Hilfeleistung","Grüze",3
+"817",817,"2020-04-25",18,0.5,"Brand Klein","Wülflingen",5
+"818",818,"2020-04-24",2,0.5,"Wasserwehr Klein","Töss",2
+"819",819,"2020-04-24",0,2,"Wasserwehr Klein","Oberwinterthur",4
+"820",820,"2020-04-23",19,0.5,"Brand Wald/Flur/Abraum","Eschenberg",4
+"821",821,"2020-04-23",18,0.5,"Hilfeleistung","Stadt",3
+"822",822,"2020-04-23",18,0.5,"Tiereinsatz","Breite",3
+"823",823,"2020-04-23",16,0.5,"Tiereinsatz","Stadt",5
+"824",824,"2020-04-23",10,0.5,"Personenrettung","Seen",4
+"825",825,"2020-04-22",20,0.5,"ABC-Gas","Stadt",5
+"826",826,"2020-04-22",17,2,"Brand Wald/Flur/Abraum","Wülflingen",4
+"827",827,"2020-04-21",20,0.5,"Automatische Gefahrenmeldeanlage","Stadt",7
+"828",828,"2020-04-21",0,1,"Brand klein","Mattenbach",1
+"829",829,"2020-04-20",8,1,"Personenrettung","Wülflingen",4
+"830",830,"2020-04-19",20,1,"Hilfeleistung","Sennhof",3
+"831",831,"2020-04-18",16,1.5,"ABC-Stadt","Mattenbach",1
+"832",832,"2020-04-18",10,3,"Pioniereinsatz","Wülflingen",7
+"833",833,"2020-04-18",9,0.5,"Automatische Gefahrenmeldeanlage","Stadt",5
+"834",834,"2020-04-18",5,0.5,"Automatische Gefahrenmeldeanlage","Stadt",6
+"835",835,"2020-04-17",17,0.5,"Brand Wald/Flur/Abraum","Stadt",3
+"836",836,"2020-04-17",8,0.5,"Brand Wald/Flur/Abraum","Seen",4
+"837",837,"2020-04-17",4,1,"Personenrettung","Seen",4
+"838",838,"2020-04-16",19,1,"Brand Klein","Seen",1
+"839",839,"2020-04-16",11,0.5,"Stützpunkt Automobildrehleiter","Elsau",4
+"840",840,"2020-04-16",0,3,"Stützpunkt Nationalstrasse","A1",1
+"841",841,"2020-04-15",20,2,"Raucherzeugung/Dampfaustritt","Stadt",1
+"842",842,"2020-04-15",18,1,"Brand Klein","Veltheim",8
+"843",843,"2020-04-14",17,0.5,"Tiereinsatz","Sennhof",3
+"844",844,"2020-04-14",15,0.5,"Pioniereinsatz","Stadt",3
+"845",845,"2020-04-14",8,1,"ABC-Stadt","Stadt",3
+"846",846,"2020-04-13",17,1,"Tiereinsatz","Oberwinterthur",3
+"847",847,"2020-04-13",8,0.5,"Brand Klein","Eschenberg",5
+"848",848,"2020-04-12",14,0.5,"Brand Klein","Stadt",4
+"849",849,"2020-04-11",14,4.5,"Brand Wald","Goldenberg",2
+"850",850,"2020-04-11",10,0.5,"Tiereinsatz","Seen",3
+"851",851,"2020-04-11",4,1,"ABC-Stadt","Flüeli",3
+"852",852,"2020-04-11",2,1.5,"Wasserwehr Klein","Stadt",3
+"853",853,"2020-04-10",22,1,"Brand Klein","Wülflingen",5
+"854",854,"2020-04-10",20,0.5,"Brand Klein","Stadt",3
+"855",855,"2020-04-10",20,0.5,"Brand Klein","Stadt",3
+"856",856,"2020-04-10",15,1,"Personenbergung","Stadt",5
+"857",857,"2020-04-09",22,0.5,"Stützpunkt Automobildrehleiter","Elgg",4
+"858",858,"2020-04-09",19,0.5,"Brand Klein","Oberwinterthur",4
+"859",859,"2020-04-09",17,1,"Pioniereinsatz","Wülflingen",3
+"860",860,"2020-04-09",14,0.5,"Automatische Gefahrenmeldeanlage","Veltheim",7
+"861",861,"2020-04-09",9,0.5,"Automatische Gefahrenmeldeanlage","Stadt",1
+"862",862,"2020-04-08",23,1,"Stützpunkt Schiene","Reutlingen",1
+"863",863,"2020-04-06",15,0.5,"Automatische Gefahrenmeldeanlage","Stadt",7
+"864",864,"2020-04-06",10,0.5,"Personenrettung","Mattenbach",4
+"865",865,"2020-04-05",21,0.5,"Brand Klein","Stadt",4
+"866",866,"2020-04-05",20,0.5,"Brand Klein","Oberwinterthur",4
+"867",867,"2020-04-05",16,0.5,"Stützpunkt","Pfungen",3
+"868",868,"2020-04-05",15,0.5,"Brand Klein","Oberwinterthur",5
+"869",869,"2020-04-05",14,0.5,"Automatische Gefahrenmeldeanlage","Hegi",7
+"870",870,"2020-04-02",22,0.5,"Hilfeleistung","Stadt",3
+"871",871,"2020-04-02",9,0.5,"Brand Klein","Stadt",9
+"872",872,"2020-04-01",13,1,"Brand Klein","Stadt",1
+"873",873,"2020-04-01",12,1,"Personenrettung","Dättnau",4
+"874",874,"2020-04-01",12,1,"Automatische Gefahrenmeldeanlage","Töss",7
+"875",875,"2020-04-01",0,0.5,"Personenrettung","Neuhegi",4
+"876",876,"2020-03-31",13,1,"Personenrettung","Seen",7
+"877",877,"2020-03-29",13,1,"Personenrettung","Töss",4
+"878",878,"2020-03-28",16,1,"Brand Fahrzeug","Töss",1
+"879",879,"2020-03-28",3,1,"Brand Klein","Hegi",1
+"880",880,"2020-03-25",20,1.5,"Personenrettung","Seen",6
+"881",881,"2020-03-23",12,1,"ABC-Stadt","Oberwinterthur",3
+"882",882,"2020-03-23",10,0.5,"Personenrettung/Personenbergung","Stadt",8
+"883",883,"2020-03-23",10,0.5,"Automatische Gefahrenmeldeanlage","Grüze",4
+"884",884,"2020-03-22",15,0.5,"Stützpunkt Automobildrehleiter","Elsau",4
+"885",885,"2020-03-22",14,0.5,"Personenbergung","Wülflingen",4
+"886",886,"2020-03-22",8,0.5,"Tiereinsatz","Wülflingen",5
+"887",887,"2020-03-21",16,0.5,"Automatische Gefahrenmeldeanlage","Stadt",7
+"888",888,"2020-03-21",5,1.5,"Brand Klein","Grüze",1
+"889",889,"2020-03-19",21,0.5,"Falschmeldung","Mattenbach",6
+"890",890,"2020-03-19",16,1,"Brand Wald","Oberwinterthur",5
+"891",891,"2020-03-18",17,0.5,"Brand Klein","Stadt",4
+"892",892,"2020-03-18",16,1.5,"Raucherzeugung","Veltheim",1
+"893",893,"2020-03-17",17,1,"ABC-Stadt","Oberwinterthur",3
+"894",894,"2020-03-17",16,0.5,"Verschiedene Einsätze","Stadt",3
+"895",895,"2020-03-17",10,0.5,"Automatische Gefahrenmeldeanlage","Töss",9
+"896",896,"2020-03-16",16,1.5,"Brand klein","Sennhof",1
+"897",897,"2020-03-16",13,0.5,"Rauchentwicklung","Stadt",6
+"898",898,"2020-03-15",16,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"899",899,"2020-03-15",12,1,"Automatische Gefahrenmeldeanlage","Stadt",9
+"900",900,"2020-03-15",11,3.5,"Wasserwehr Mittel","Oberwinterthur",3
+"901",901,"2020-03-14",21,2.5,"Stützpunkt Automobildrehleiter","Elgg",4
+"902",902,"2020-03-14",21,0.5,"Hilfeleistung","Töss",3
+"903",903,"2020-03-14",15,0.45,"ABC-Stadt","Wülflingen",3
+"904",904,"2020-03-14",11,1.5,"Personenrettung","Wülflingen",9
+"905",905,"2020-03-13",13,0.5,"Rauchentwicklung","Stadt",6
+"906",906,"2020-03-12",20,1.5,"Pioniereinsatz","Oberwinterthur",3
+"907",907,"2020-03-12",18,1,"ABC-Stadt","Seen",6
+"908",908,"2020-03-12",11,1,"Personenrettung","Seen",3
+"909",909,"2020-03-11",19,1,"Automatische Gefahrenmeldeanlage","Stadt",9
+"910",910,"2020-03-11",7,0.5,"Personenrettung","Seen",4
+"911",911,"2020-03-11",7,0.5,"Personenbergung/Personenrettung","Seen",4
+"912",912,"2020-03-10",2,0.5,"Hilfeleistung","Stadt",4
+"913",913,"2020-03-09",11,0.5,"Personenrettung","Seen",6
+"914",914,"2020-03-09",9,0.5,"Personenrettung","Wülflingen",4
+"915",915,"2020-03-09",9,0.5,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"916",916,"2020-03-08",11,0.5,"Elementar Sturm","Stadt",2
+"917",917,"2020-03-07",20,0.5,"Brand Klein","Wülflingen",4
+"918",918,"2020-03-07",17,0.5,"Personenrettung","Stadt",4
+"919",919,"2020-03-07",8,2,"Pioniereinsatz","Wülflingen",1
+"920",920,"2020-03-06",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"921",921,"2020-03-06",17,0.5,"Personenrettung","Stadt",4
+"922",922,"2020-03-06",12,0.5,"Personenrettung","Seen",4
+"923",923,"2020-03-06",6,1,"Elementar Sturm","Seen",3
+"924",924,"2020-03-04",11,0.5,"Automatische Gefahrenmeldeanlage","Töss",8
+"925",925,"2020-03-04",8,1,"Stützpunkt Automobildrehleiter","Neftenbach",4
+"926",926,"2020-03-03",22,0.5,"ABC-Gas","Töss",1
+"927",927,"2020-03-03",15,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"928",928,"2020-03-03",15,0.5,"Personenrettung","Oberwinterthur",6
+"929",929,"2020-03-03",13,7,"Brand Mittel","Grüze",1
+"930",930,"2020-03-03",13,0.5,"Raucherzeugung/Dampfaustritt","Stadt",1
+"931",931,"2020-03-03",9,1.5,"ABC-Stadt","Oberwinterthur",3
+"932",932,"2020-03-03",3,9.5,"Brand Mittel","Grüze",2
+"933",933,"2020-03-03",2,2.5,"ABC-Messbus","Wald ZH",4
+"934",934,"2020-03-02",22,1.5,"Personenrettung","Stadt",4
+"935",935,"2020-03-02",13,2.5,"ABC Stadt","Stadt",4
+"936",936,"2020-03-02",11,1,"Elementar Sturm","Hegi",4
+"937",937,"2020-03-02",8,0.5,"Elementar Sturm","Stadt",3
+"938",938,"2020-03-02",7,1.45,"Wasserwehr Mittel","Stadt",3
+"939",939,"2020-03-02",6,1,"Automatische Gefahrenmeldeanlage","Stadt",9
+"940",940,"2020-03-01",20,0.5,"Elementar Sturm","Hegi",5
+"941",941,"2020-03-01",20,1,"Elementar Sturm","Stadt",5
+"942",942,"2020-03-01",19,1.5,"Elementar Sturm","Wülflingen",2
+"943",943,"2020-03-01",19,1,"Hilfeleistung","Wülflingen",3
+"944",944,"2020-03-01",11,1,"Elementar Wasser","Wülflingen",3
+"945",945,"2020-03-01",9,0.5,"Elementar Sturm","Stadt",4
+"946",946,"2020-02-29",23,1,"ABC-Stadt","Stadt",3
+"947",947,"2020-02-29",19,0.5,"Personenrettung","Stadt",6
+"948",948,"2020-02-29",16,1,"Personenrettung","Stadt",6
+"949",949,"2020-02-29",13,0.5,"Hilfeleistung","Stadt",4
+"950",950,"2020-02-29",9,1,"ABC-Stadt","Hegi",3
+"951",951,"2020-02-28",11,1,"Raucherzeugung/Dampfaustritt","Stadt",6
+"952",952,"2020-02-27",22,0.5,"Elementar Sturm","Stadt",3
+"953",953,"2020-02-27",22,1,"Elementar Sturm","Seen",5
+"954",954,"2020-02-27",22,0.5,"Elementar Sturm","Oberwinterthur",3
+"955",955,"2020-02-27",21,1,"Elementar Sturm","Stadt",5
+"956",956,"2020-02-27",21,1.5,"Elementar Sturm","Rosenberg",7
+"957",957,"2020-02-27",20,1,"Elementar Sturm","Stadt",4
+"958",958,"2020-02-27",20,1,"Elementar Sturm","Oberwinterthur",3
+"959",959,"2020-02-27",20,0.5,"Elementar Sturm","Stadt",4
+"960",960,"2020-02-27",20,0.5,"Elementar Sturm","Stadt",3
+"961",961,"2020-02-27",20,1,"Elementar Sturm","Stadt",3
+"962",962,"2020-02-27",19,1.5,"Elementar Sturm","Stadt",3
+"963",963,"2020-02-27",19,1,"Elementar Sturm","Stadt",4
+"964",964,"2020-02-27",19,0.5,"Elementar Sturm","Stadt",3
+"965",965,"2020-02-27",19,2,"Elementar Sturm","Wülflingen",6
+"966",966,"2020-02-27",12,1,"Personenrettung","Stadt",4
+"967",967,"2020-02-27",9,3,"Brand klein","Stadt",1
+"968",968,"2020-02-27",9,1,"Personenrettung","Töss",4
+"969",969,"2020-02-25",12,0.5,"Personenrettung","Oberwinterthur",4
+"970",970,"2020-02-24",22,0.5,"Personenrettung","Mattenbach",5
+"971",971,"2020-02-24",15,0.5,"Raucherzeugung","Stadt",1
+"972",972,"2020-02-24",8,1,"Stützpunkt Nationalstrasse","A1",1
+"973",973,"2020-02-23",13,0.5,"Brand Klein","Wülflingen",5
+"974",974,"2020-02-22",8,1,"Raucherzeugung/Dampfaustritt","Sennhof (Winterthur)",1
+"975",975,"2020-02-21",19,1,"Falschmeldung","Autobahn A1",1
+"976",976,"2020-02-21",14,5,"Personenbergung nach Verkehrsunfall","Oberwinterthur",2
+"977",977,"2020-02-21",12,0.5,"Personenrettung","Stadt",6
+"978",978,"2020-02-20",18,1,"Wasserwehr Klein","Hegi",3
+"979",979,"2020-02-20",17,0.5,"Personenbergung / Personenrettung","Oberwinterthur",4
+"980",980,"2020-02-19",11,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"981",981,"2020-02-19",8,1,"Hilfeleistung","Stadt",4
+"982",982,"2020-02-18",18,1,"Raucherzeugung","Mattenbach",6
+"983",983,"2020-02-18",17,0.5,"Tiereinsatz","Stadt",3
+"984",984,"2020-02-18",5,0.5,"Brand Klein","Seen",4
+"985",985,"2020-02-17",9,0.5,"Automatische Gefahrenmeldeanlage","Grüze",8
+"986",986,"2020-02-16",20,1,"Wasserwehr Klein","Töss",3
+"987",987,"2020-02-16",16,4,"Brand Fahrzeug","Töss",1
+"988",988,"2020-02-16",10,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"989",989,"2020-02-15",8,1,"Automatische Gefahrenmeldeanlage","Oberwinterthur",9
+"990",990,"2020-02-15",5,0.5,"Falschmeldung","Breite",3
+"991",991,"2020-02-14",18,0.5,"Personenrettung / Personenbergung","Stadt",4
+"992",992,"2020-02-14",13,1,"Elementar Sturm","Veltheim",4
+"993",993,"2020-02-13",23,1,"Pioniereinsatz","Töss",3
+"994",994,"2020-02-13",18,1.5,"Elementar Sturm","Seen",3
+"995",995,"2020-02-11",16,0.5,"Elementar Sturm","Breite",6
+"996",996,"2020-02-11",15,0.5,"Elementar Sturm","Mattenbach",4
+"997",997,"2020-02-11",11,0.5,"Automatisch Gefahrenmeldeanlage","Stadt",9
+"998",998,"2020-02-11",11,0.5,"Falschmeldung","Grüze",1
+"999",999,"2020-02-11",7,0.5,"Elementar Sturm","Mattenbach",6
+"1000",1000,"2020-02-11",7,0.5,"Wasserwehr Klein","Mattenbach",3
+"1001",1001,"2020-02-11",6,1,"Elementar Sturm","Wülflingen",3
+"1002",1002,"2020-02-10",23,1,"Elementar Sturm","Oberwinterthur",3
+"1003",1003,"2020-02-10",6,1,"Elementar Sturm","Töss",3
+"1004",1004,"2020-02-09",20,0.5,"Brand Klein","Seen",4
+"1005",1005,"2020-02-09",15,1,"Hilfeleistung","Töss",3
+"1006",1006,"2020-02-09",0,0.5,"Brand Klein","Mattenbach",4
+"1007",1007,"2020-02-08",21,0.5,"Personenrettung","Veltheim",4
+"1008",1008,"2020-02-07",13,0.5,"Personenrettung/Personenbergung","Stadt",4
+"1009",1009,"2020-02-07",10,1,"ABC-Stadt","Stadt",1
+"1010",1010,"2020-02-06",0,1,"Falschmeldung","Hegi",1
+"1011",1011,"2020-02-05",8,1.5,"ABC-Stadt","Stadt",3
+"1012",1012,"2020-02-04",21,1,"Personenrettung","Wülflingen",4
+"1013",1013,"2020-02-04",19,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"1014",1014,"2020-02-04",14,1,"Technische Hilfeleistung","Oberwinterthur",4
+"1015",1015,"2020-02-04",10,1,"Personenbergung/Personenrettung","Wülflingen",4
+"1016",1016,"2020-02-04",7,0.5,"Automatische Gefahrenmeldeanlage (Sprinkler)","Veltheim",1
+"1017",1017,"2020-02-04",2,0.5,"Hilfeleistung","Seen",3
+"1018",1018,"2020-02-03",5,1,"Pioniereinsatz","Mattenbach",5
+"1019",1019,"2020-02-02",17,3,"Brand Mittel","Stadt",1
+"1020",1020,"2020-02-02",13,1.5,"ABC-Stadt","Stadt",3
+"1021",1021,"2020-02-01",14,4,"Personenrettung","Oberwinterthur",1
+"1022",1022,"2020-01-31",16,0.5,"Automatische Gefahrenmeldeanlage","Stadt",8
+"1023",1023,"2020-01-31",11,1,"ABC-Stadt","Töss",3
+"1024",1024,"2020-01-31",6,0.5,"Personenrettung","Stadt",4
+"1025",1025,"2020-01-30",13,0.5,"Hilfeleistung","Hegi",3
+"1026",1026,"2020-01-30",8,0.5,"Falschmeldung","Oberwinterthur",5
+"1027",1027,"2020-01-30",7,4,"Wasserwehr Gross","Hegi",1
+"1028",1028,"2020-01-29",21,0.5,"ABC-Gas","Stadt",1
+"1029",1029,"2020-01-29",10,2,"ABC-Stadt","Wülflingen",4
+"1030",1030,"2020-01-29",10,1,"Tiereinsatz","Schützenweiher",4
+"1031",1031,"2020-01-27",15,1.5,"Personenbergung / Personenrettung","Stadt",6
+"1032",1032,"2020-01-27",10,2,"Wasserwehr Klein","Stadt",6
+"1033",1033,"2020-01-26",9,1,"Personenrettung","Rosenberg",4
+"1034",1034,"2020-01-25",23,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"1035",1035,"2020-01-25",18,0.5,"Brand Flur","Seen",6
+"1036",1036,"2020-01-25",9,0.5,"Automatische Gefahrenmeldeanlage","Wülflingen",9
+"1037",1037,"2020-01-24",22,1,"Personenrettung","Wülflingen",6
+"1038",1038,"2020-01-24",14,1,"Personenrettung","Hegi",4
+"1039",1039,"2020-01-23",18,0.5,"ABC-Stadt","Stadt",3
+"1040",1040,"2020-01-23",17,1,"Raucherzeugung/Dampfaustritt","Ricketwil",2
+"1041",1041,"2020-01-23",7,0.5,"Stützpunkt Automobildrehleiter","Pfungen",4
+"1042",1042,"2020-01-23",6,1,"Personenrettung","Töss",4
+"1043",1043,"2020-01-22",15,1,"ABC-Gas","Veltheim",1
+"1044",1044,"2020-01-20",16,2.5,"Personenrettung","Wülflingen",1
+"1045",1045,"2020-01-20",14,0.5,"Raucherzeugung/Dampfaustritt","Stadt",1
+"1046",1046,"2020-01-20",9,1,"Hilfeleistung","Stadt",4
+"1047",1047,"2020-01-20",7,1,"Personenrettung","Töss",4
+"1048",1048,"2020-01-20",0,1,"Brand Klein","Seen",1
+"1049",1049,"2020-01-19",17,1,"Personenrettung","Veltheim",4
+"1050",1050,"2020-01-19",17,0.5,"Personenrettung","Seen",4
+"1051",1051,"2020-01-19",9,1,"Wasserwehr klein","Stadt",3
+"1052",1052,"2020-01-18",18,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"1053",1053,"2020-01-18",18,0.5,"Personenbergung","Töss",6
+"1054",1054,"2020-01-17",11,0.45,"Personenrettung","Oberwinterthur",4
+"1055",1055,"2020-01-17",9,0.5,"Hilfeleistung","Stadt",3
+"1056",1056,"2020-01-16",17,2,"Hilfeleistung","Oberwinterthur",4
+"1057",1057,"2020-01-16",5,1,"Stützpunkt Automobildrehleiter","Rickenbach Sulz",4
+"1058",1058,"2020-01-15",22,0.5,"Automatische Gefahrenmeldeanlage","Stadt",9
+"1059",1059,"2020-01-15",14,3.5,"ABC-Messbus","Wetzikon",4
+"1060",1060,"2020-01-15",12,1,"Stützpunkt Automobildrehleiter","Elgg",4
+"1061",1061,"2020-01-15",4,0.5,"Personenrettung","Mattenbach",4
+"1062",1062,"2020-01-14",22,0.5,"Automatische Gefahrenmeldeanlage","Grüze",1
+"1063",1063,"2020-01-14",12,1,"Personenbergung/Personenrettung","Seen",4
+"1064",1064,"2020-01-14",7,0.5,"Technische Hilfeleistung","Seen",4
+"1065",1065,"2020-01-13",16,1,"Automatische Gefahrenmeldeanlage","Oberwinterthur",8
+"1066",1066,"2020-01-13",9,0.5,"Brand Klein","Wülflingen",6
+"1067",1067,"2020-01-13",8,2,"Raucherzeugung/Dampfaustritt","Veltheim",1
+"1068",1068,"2020-01-13",7,1,"Personenrettung","Oberwinterthur",6
+"1069",1069,"2020-01-12",16,0.5,"Personenrettung","Töss",4
+"1070",1070,"2020-01-12",10,0.5,"Automatische Gefahrenmeldeanlage","Hegi",9
+"1071",1071,"2020-01-11",18,1,"Brand Klein","Mattenbach",1
+"1072",1072,"2020-01-11",8,2.5,"Automatische Gefahrenmeldeanlage","Stadt",1
+"1073",1073,"2020-01-10",21,0.5,"Personenrettung","Seen",4
+"1074",1074,"2020-01-10",10,1,"Tiereinsatz","Töss",9
+"1075",1075,"2020-01-09",19,0.5,"ABC-Stadt","Töss",4
+"1076",1076,"2020-01-09",4,0.5,"Brand Klein","Stadt",4
+"1077",1077,"2020-01-07",14,0.5,"Hilfeleistung","Töss",3
+"1078",1078,"2020-01-07",9,4,"Rauchentwicklung","Dättnau",6
+"1079",1079,"2020-01-06",14,1,"Brand Klein","Stadt",1
+"1080",1080,"2020-01-05",14,1,"Patientenbergung","Töss",4
+"1081",1081,"2020-01-05",9,1,"Automatische Brandmeldeanlage","Tössfeld",9
+"1082",1082,"2020-01-04",12,2,"ABC-Messbus","Volketswil",4
+"1083",1083,"2020-01-01",9,0.5,"Personenrettung","Oberwinterthur",4
+"1084",1084,"2020-01-01",4,0.5,"Brand Klein","Wülflingen",4
+"1085",1085,"2020-01-01",0,0.5,"Brand Klein","Dättnau",4

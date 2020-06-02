@@ -7,7 +7,7 @@ output: html_document
 
 # Import Packages
 
-```{r}
+```{r, echo = FALSE}
 library("knitr")
 
 library("rvest")
@@ -23,6 +23,7 @@ library("lubridate")
 
 ```{r setup, echo=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+opts_knit$set(root.dir = "~/GitHub_Projects/Web_Scraping_Project")
 opts_chunk$set(fig.align = "center")
 ```
 
