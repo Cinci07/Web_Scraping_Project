@@ -9,9 +9,13 @@ output:
     number_sections: true
 ---
 
+# Important notes
+
+The scraping tiles are deactivated by default (eval = FALSE) thus it should be blocked to scrape the webpages every time. The websites were scraped once and the two data files were exported and could be loaded as needed. 
+
 # Import Packages
 
-Import all the necessary packages for the project and create the connection to github.
+Import all the necessary libraries for the project and create the connection to github.
 
 ```{r, echo = FALSE, warning = FALSE}
 library("knitr")
@@ -38,10 +42,12 @@ Following two Web-Scrapers were created. The first Web-Scraper collects data on 
 
 ## Application reports Web-Scraper
 
+
+
 ```{r, eval = FALSE}
 df_alarms <- data.frame(date = as.Date(character()), hour = integer(), duration = double(), alarm_type = character(), location = character(), firefighters = integer())
 
-for (j in 2019:2020){
+for (j in 2017:2020){
   
   url <- paste("https://einsatzberichte-feuerwehr.winterthur.ch/mission-reports?page=0&year=", j , sep="")
   webpage <- read_html(url)
@@ -54,19 +60,17 @@ for (j in 2019:2020){
   
     webpage <- read_html(url)
     
-    yyy <- webpage %>% html_nodes("tr td") %>% html_text() %>% as.matrix()
+    d <- webpage %>% html_nodes("tr td") %>% html_text() %>% as.matrix()
     
-    date <- yyy[seq(from = 1, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both")
-    time <- yyy[seq(from = 2, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both")
-    duration <- yyy[seq(from = 3, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% 
-      str_replace_all(pattern = "h", replacement = "") %>% str_trim("both")
-    alarm_type <- yyy[seq(from = 4, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% 
-      str_trim("both") %>% str_replace_all(pattern = ":.*", replacement = "")
-    location <- yyy[seq(from = 5, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both")
-    firefighters <- yyy[seq(from = 6, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% 
-      str_trim("both") %>% str_sub(start = 1, end = 1)
+    date <- d[seq(from = 1, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both")
+    time <- d[seq(from = 2, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both")
+    duration <- d[seq(from = 3, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_replace_all(pattern = "h", replacement = "") %>% str_trim("both")
+    alarm_type <- d[seq(from = 4, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both") %>% str_replace_all(pattern = ":.*", replacement = "")
+    location <- d[seq(from = 5, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both")
+    firefighters <- d[seq(from = 6, to = 60, by = 6)] %>% str_replace_all(pattern = "\n", replacement = "") %>% str_trim("both") %>% str_sub(start = 1, end = 1)
     
-    df_t <- data.frame(date = as.Date(date,"%d.%m.%Y"), hour = as.integer(substr(time,1,2)), duration = as.double(duration), alarm_type, location, firefighters = as.integer(firefighters), stringsAsFactors = FALSE)
+    df_t <- data.frame(date = as.Date(date,"%d.%m.%Y"), hour = as.integer(substr(time,1,2)), duration = as.double(duration), 
+                       alarm_type, location, firefighters = as.integer(firefighters), stringsAsFactors = FALSE)
     
     df_alarms <- bind_rows(df_alarms, df_t)
     
@@ -87,7 +91,7 @@ df_weather <- data.frame(date = as.Date(character()), temp = double(), rain = do
 
 monate <- c("01","02","03","04","05","06","07","08","09","10","11","12")
 
-for (j in 2019:2020){
+for (j in 2017:2020){
   
   for (i in 1:12){
     
@@ -142,28 +146,33 @@ df_weather$date <- as.Date(df_weather$date)
 ## Data Exploration
 
 ```{r}
-ggplot(df_alarms, aes(x=hour)) + geom_histogram()
-hist(df_alarms$hour, breaks = 24)
+ggplot(df_alarms, aes(x=hour)) + geom_histogram(binwidth = 1, color="darkblue", fill="lightblue") + 
+  labs(x = "hour", y = "Alarm count", title = "Histogram of Alarms per Hour")
+
+df_sum_alarms <- df_alarms %>% group_by(alarm_type) %>% summarise(count = n()) %>% top_n(10) 
+ggplot(data=df_sum_alarms, aes(x=reorder(alarm_type, count), y=count)) + geom_bar(stat="identity", color="darkblue", fill="lightblue") + coord_flip() +
+  labs(x = "Alarm count", y = "Type of Alarm", title = "Top 10 Alarm Types")
 
 
-xx <- df_alarms %>% group_by(alarm_type) %>% summarise(count = n())
-ggplot(data=xx, aes(x=alarm_type, y=count)) + geom_bar(stat="identity")
 
-
-yy <- df_alarms %>% group_by(location) %>% summarise(count = n())
-ggplot(data=yy, aes(x=location, y=count)) + geom_bar(stat="identity") + coord_flip()
 ```
 
 
 ## Combine Heat with Fire
 
 ```{r}
-alarms_by_month <- df_alarms %>% group_by(month = months(date)) %>% filter(str_detect(alarm_type, "Brand")) %>% summarise(count = n())
-temp_by_month <- df_weather %>% group_by(month = months(date)) %>% summarise(avg_temp = mean(temp))
+alarms_by_month <- df_alarms %>% filter(str_detect(alarm_type, "Brand")) %>% group_by(month = months(date)) %>% 
+  summarise(count = n()/(3*12+5)) # To get the aveage
+
+temp_by_month <- df_weather %>% group_by(month = months(date)) %>% filter(year(date) == "2019") %>% summarise(avg_temp = mean(temp))
 
 df_comb <- alarms_by_month %>% left_join(temp_by_month, by="month")
+df_comb$season <- as.factor(c(1,2,4,4,4,2,2,1,1,3,3,3))
 
-ggplot(df_comb, aes(x=count, y=avg_temp, label=month) ) + geom_point() + geom_text()
+
+ggplot(df_comb, aes(x=count, y=avg_temp, label=month, colour=season)) + geom_text() + 
+  scale_color_manual(values=c("darkorange","red","darkgreen","blue")) +
+  labs(x = "Average Fires per day", y = "Average temperatur", title = "Scatterplot Average Fires vs. Average Temperature")
 ```
 
 
